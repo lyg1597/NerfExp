@@ -5,6 +5,8 @@ import scipy
 from scipy.integrate import odeint
 import copy 
 import matplotlib.pyplot as plt 
+import json 
+import os 
 
 def lqr(A, B, Q, R):
     """Solve the continuous time lqr controller.
@@ -70,25 +72,57 @@ def simulate(x, goal, dt):
     return odeint(cl_nonlinear, x, [0, dt], args=(goal,))[-1]
 
 if __name__ == "__main__":
-    x0 = np.zeros(12)
-    x0[10] = np.pi/3
-    dt = 0.01 
-    goal = np.array([5.,5.,5.,np.pi/4])
+    # x0 = np.zeros(12)
+    # x0[10] = np.pi/3
+    # dt = 0.01 
+    # goal = np.array([5.,5.,5.,np.pi/4])
+    # x_list = [copy.deepcopy(x0)]
+    # for i in range(4000):
+    #     if i==1500:
+    #         print('a')
+    #     res = simulate(x0, copy.deepcopy(goal), dt)
+    #     x_list.append(copy.deepcopy(res))
+    #     x0 = res
+    # x_list = np.array(x_list)
+    # print(x_list.shape)
+    # plt.figure(0)
+    # plt.plot(x_list[:,0])
+    # plt.figure(1)
+    # plt.plot(x_list[:,4])
+    # plt.figure(2)
+    # plt.plot(x_list[:,8])
+    # plt.figure(3)
+    # plt.plot(x_list[:,10])
+    # plt.show()
+    script_dir = os.path.dirname(os.path.realpath(__file__))
+    with open(os.path.join(script_dir, 'camera_path.json'), 'r') as f:
+        camera_path = json.load(f)
+
+    x0 = [-0.8441804331384228,0,0,0, -0.05182509322668888,0,0,0, -0.3332843105241055,0,0,0]
     x_list = [copy.deepcopy(x0)]
-    for i in range(4000):
-        if i==1500:
-            print('a')
-        res = simulate(x0, copy.deepcopy(goal), dt)
-        x_list.append(copy.deepcopy(res))
-        x0 = res
+    path = camera_path['camera_path']
+    dt = 0.1
+    for elem in path:
+        pose = np.array(elem['camera_to_world']).reshape((4,4))
+        camera_pos = pose[:3, 3]
+        goal = np.array([camera_pos[0], camera_pos[1], camera_pos[2], 0])
+        for i in range(10):
+            res = simulate(x0, copy.deepcopy(goal), dt)
+            x_list.append(copy.deepcopy(res))
+            x0 = res
     x_list = np.array(x_list)
-    print(x_list.shape)
-    plt.figure(0)
-    plt.plot(x_list[:,0])
-    plt.figure(1)
-    plt.plot(x_list[:,4])
-    plt.figure(2)
-    plt.plot(x_list[:,8])
-    plt.figure(3)
-    plt.plot(x_list[:,10])
+    # plt.figure(0)
+    # plt.plot(x_list[:,0])
+    # plt.figure(1)
+    # plt.plot(x_list[:,4])
+    # plt.figure(2)
+    # plt.plot(x_list[:,8])
+    # plt.figure(3)
+    # plt.plot(x_list[:,10])
+    fig = plt.figure()
+    ax = plt.axes(projection='3d')
+    ax.plot3D(x_list[:,0], x_list[:,4], x_list[:,8], 'gray')
+
     plt.show()
+
+    
