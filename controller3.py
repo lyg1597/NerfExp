@@ -95,7 +95,7 @@ if __name__ == "__main__":
     # plt.plot(x_list[:,10])
     # plt.show()
     script_dir = os.path.dirname(os.path.realpath(__file__))
-    with open(os.path.join(script_dir, 'camera_path.json'), 'r') as f:
+    with open(os.path.join(script_dir, 'camera_path2.json'), 'r') as f:
         camera_path = json.load(f)
 
     x0 = [-0.8441804331384228,0,0,0, -0.05182509322668888,0,0,0, -0.3332843105241055,0,0,0]
