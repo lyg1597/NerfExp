@@ -1,0 +1,10 @@
+**/__pycache__/
+**.png
+**.jpg
+
+wandb/
+**.pth
+**.mp4
+extracted_nerf/
+extracted_splat/
+**.txt

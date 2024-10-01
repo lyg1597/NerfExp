@@ -1,0 +1,1416 @@
+gt,est,diff,img_fn,kp_fn,removed
+"[-2.97201805e+03  7.55734143e+01  1.13193276e+02 -1.45009088e-01
+ -7.08558816e-02  0.00000000e+00]","[-2.93596644e+03  6.84828243e+01  1.10497006e+02 -1.41447540e-01
+ -7.14323477e-02 -2.60517052e-03]",36.841075558520124,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00000.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00000_kp.png,False
+"[-2.97201805e+03  7.55734143e+01  1.13193276e+02 -1.45009088e-01
+ -7.08558816e-02  0.00000000e+00]","[-2.93596644e+03  6.84828243e+01  1.10497006e+02 -1.41447540e-01
+ -7.14323477e-02 -2.60517052e-03]",36.841075558520124,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00001.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00001_kp.png,False
+"[-2.55796422e+03 -7.13381358e+01  8.88827668e+01  1.69220494e-02
+ -7.49965365e-02  0.00000000e+00]","[-2.50661219e+03 -6.10642493e+01  8.27401065e+01  1.13420210e-02
+ -7.73280050e-02 -1.83321338e-03]",52.72869847037926,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00002.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00002_kp.png,False
+"[-2.55796422e+03 -7.13381358e+01  8.88827668e+01  1.69220494e-02
+ -7.49965365e-02  0.00000000e+00]","[-2.50661219e+03 -6.10642493e+01  8.27401065e+01  1.13420210e-02
+ -7.73280050e-02 -1.83321338e-03]",52.72869847037926,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00003.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00003_kp.png,False
+"[-2.18740389e+03 -4.32640461e+01  6.94248247e+01 -7.14766385e-02
+ -5.38953302e-02  0.00000000e+00]","[-2.35973215e+03 -2.44311731e+01  9.97508866e+01 -7.89693862e-02
+ -4.85058652e-02 -1.15319454e-01]",175.98685668124438,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00004.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00004_kp.png,False
+"[-2.18740389e+03 -4.32640461e+01  6.94248247e+01 -7.14766385e-02
+ -5.38953302e-02  0.00000000e+00]","[-2.35973215e+03 -2.44311731e+01  9.97508866e+01 -7.89693862e-02
+ -4.85058652e-02 -1.15319454e-01]",175.98685668124438,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00005.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00005_kp.png,False
+"[-2.98158377e+03 -6.04857175e+01  1.15014923e+02 -1.54136511e-01
+ -9.37362376e-02  0.00000000e+00]","[-2.94983641e+03 -6.15321589e+01  1.11148066e+02 -1.54012875e-01
+ -9.32499593e-02  8.46333366e-03]",31.99909969824701,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00006.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00006_kp.png,False
+"[-2.98158377e+03 -6.04857175e+01  1.15014923e+02 -1.54136511e-01
+ -9.37362376e-02  0.00000000e+00]","[-2.94983641e+03 -6.15321589e+01  1.11148066e+02 -1.54012875e-01
+ -9.32499593e-02  8.46333366e-03]",31.99909969824701,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00007.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00007_kp.png,False
+"[-2.31267446e+03  2.56654903e+01  8.01924372e+01  3.52894637e-02
+ -1.17993173e-01  0.00000000e+00]","[-3.03230108e+03  1.37055867e+02  1.27637843e+02 -1.73438912e-02
+ -1.02789843e-01 -3.33650676e-02]",729.7406118610405,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00008.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00008_kp.png,False
+"[-2.31267446e+03  2.56654903e+01  8.01924372e+01  3.52894637e-02
+ -1.17993173e-01  0.00000000e+00]","[-3.03230108e+03  1.37055867e+02  1.27637843e+02 -1.73438912e-02
+ -1.02789843e-01 -3.33650676e-02]",729.7406118610405,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00009.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00009_kp.png,False
+"[-2.98132493e+03  8.04217016e+00  1.16762234e+02  1.65773756e-02
+ -1.15144032e-01  0.00000000e+00]","[-2.93563169e+03 -8.80242739e+00  7.57620075e+01  2.30385529e-02
+ -1.38020891e-01  1.82528708e-02]",63.66028263812843,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00010.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00010_kp.png,False
+"[-2.98132493e+03  8.04217016e+00  1.16762234e+02  1.65773756e-02
+ -1.15144032e-01  0.00000000e+00]","[-2.93563169e+03 -8.80242739e+00  7.57620075e+01  2.30385529e-02
+ -1.38020891e-01  1.82528708e-02]",63.66028263812843,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00011.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00011_kp.png,False
+"[-2.66559723e+03  5.82742637e+01  9.30101294e+01 -2.63366201e-02
+ -1.19803422e-01  0.00000000e+00]","[-2.75364390e+03  2.55046770e+01  4.44820412e+01 -2.86498833e-03
+ -1.55540753e-01  2.02365457e-03]",105.74042293800049,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00012.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00012_kp.png,False
+"[-2.66559723e+03  5.82742637e+01  9.30101294e+01 -2.63366201e-02
+ -1.19803422e-01  0.00000000e+00]","[-2.75364390e+03  2.55046770e+01  4.44820412e+01 -2.86498833e-03
+ -1.55540753e-01  2.02365457e-03]",105.74042293800049,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00013.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00013_kp.png,False
+"[-2.46541580e+03  5.81104369e+01  8.06608747e+01  1.22144195e-01
+ -1.28231933e-01  0.00000000e+00]","[-3.10488211e+03 -8.47729866e+00  5.84931142e+01  1.09658057e-01
+ -1.86143449e-01  2.85266292e-01]",643.3059096050521,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00014.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00014_kp.png,False
+"[-2.46541580e+03  5.81104369e+01  8.06608747e+01  1.22144195e-01
+ -1.28231933e-01  0.00000000e+00]","[-3.10488211e+03 -8.47729866e+00  5.84931142e+01  1.09658057e-01
+ -1.86143449e-01  2.85266292e-01]",643.3059096050521,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00015.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00015_kp.png,False
+"[-2.22849566e+03  3.84722060e+01  6.00473894e+01 -5.78279864e-02
+ -9.01855192e-02  0.00000000e+00]","[-2.18700209e+03  2.89251904e+01  5.82929068e+01 -5.27649816e-02
+ -8.93766940e-02  2.18810885e-02]",42.613849170957884,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00016.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00016_kp.png,False
+"[-2.22849566e+03  3.84722060e+01  6.00473894e+01 -5.78279864e-02
+ -9.01855192e-02  0.00000000e+00]","[-2.18700209e+03  2.89251904e+01  5.82929068e+01 -5.27649816e-02
+ -8.93766940e-02  2.18810885e-02]",42.613849170957884,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00017.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00017_kp.png,False
+"[-2.52668407e+03 -2.42704309e+01  9.27173125e+01  1.29661883e-02
+ -1.07420935e-01  0.00000000e+00]","[-2.50900965e+03 -6.59291374e+00  6.06648057e+01  3.92425205e-03
+ -1.31561908e-01 -2.70551870e-02]",40.647790264186,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00018.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00018_kp.png,False
+"[-2.52668407e+03 -2.42704309e+01  9.27173125e+01  1.29661883e-02
+ -1.07420935e-01  0.00000000e+00]","[-2.50900965e+03 -6.59291374e+00  6.06648057e+01  3.92425205e-03
+ -1.31561908e-01 -2.70551870e-02]",40.647790264186,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00019.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00019_kp.png,False
+"[-2.65606706e+03 -2.83765001e+01  8.69914877e+01  3.88914353e-02
+ -1.23362169e-01  0.00000000e+00]","[-2.62096347e+03 -2.34899281e+00  4.09451642e+01  2.02330619e-02
+ -1.55433434e-01  1.17341322e-03]",63.481942028698036,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00020.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00020_kp.png,False
+"[-2.65606706e+03 -2.83765001e+01  8.69914877e+01  3.88914353e-02
+ -1.23362169e-01  0.00000000e+00]","[-2.62096347e+03 -2.34899281e+00  4.09451642e+01  2.02330619e-02
+ -1.55433434e-01  1.17341322e-03]",63.481942028698036,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00021.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00021_kp.png,False
+"[-2.26292835e+03  1.82178576e+01  7.76199287e+01 -9.40245261e-02
+ -7.90286741e-02  0.00000000e+00]","[-2.21297055e+03  8.18398615e+00  7.35136532e+01 -8.82270563e-02
+ -7.77484859e-02  2.48789589e-02]",51.12065836713146,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00022.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00022_kp.png,False
+"[-2.26292835e+03  1.82178576e+01  7.76199287e+01 -9.40245261e-02
+ -7.90286741e-02  0.00000000e+00]","[-2.21297055e+03  8.18398615e+00  7.35136532e+01 -8.82270563e-02
+ -7.77484859e-02  2.48789589e-02]",51.12065836713146,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00023.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00023_kp.png,False
+"[-2.79793534e+03  6.97847247e+01  1.07545586e+02 -5.99439973e-02
+  2.21460198e-03  0.00000000e+00]","[-2.80275554e+03  7.25786781e+01  1.10467124e+02 -6.20948901e-02
+  3.82463431e-03  6.23797948e-03]",6.290933079959993,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00024.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00024_kp.png,False
+"[-2.79793534e+03  6.97847247e+01  1.07545586e+02 -5.99439973e-02
+  2.21460198e-03  0.00000000e+00]","[-2.80275554e+03  7.25786781e+01  1.10467124e+02 -6.20948901e-02
+  3.82463431e-03  6.23797948e-03]",6.290933079959993,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00025.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00025_kp.png,False
+"[-2.73541788e+03  1.69940586e+01  1.09806702e+02 -2.83780459e-02
+ -1.03249677e-01  0.00000000e+00]","[-2.71568109e+03  5.57822717e+00  9.28022344e+01 -2.42200357e-02
+ -1.13421145e-01  2.05843014e-02]",28.443168027998844,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00026.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00026_kp.png,False
+"[-2.73541788e+03  1.69940586e+01  1.09806702e+02 -2.83780459e-02
+ -1.03249677e-01  0.00000000e+00]","[-2.71568109e+03  5.57822717e+00  9.28022344e+01 -2.42200357e-02
+ -1.13421145e-01  2.05843014e-02]",28.443168027998844,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00027.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00027_kp.png,False
+"[-2.82245854e+03 -7.99573760e+01  1.06633981e+02  1.27340490e-01
+ -1.23484126e-01  0.00000000e+00]","[-3.54943931e+03 -2.26826857e+02  1.61000491e+02  1.75839269e-01
+ -1.13115875e-01  4.34454574e-02]",743.6581265303485,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00028.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00028_kp.png,False
+"[-2.82245854e+03 -7.99573760e+01  1.06633981e+02  1.27340490e-01
+ -1.23484126e-01  0.00000000e+00]","[-3.54943931e+03 -2.26826857e+02  1.61000491e+02  1.75839269e-01
+ -1.13115875e-01  4.34454574e-02]",743.6581265303485,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00029.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00029_kp.png,False
+"[-2.85694437e+03  8.83196695e+01  1.15115722e+02 -1.15726712e-01
+ -4.40757862e-02  0.00000000e+00]","[-2.82026952e+03  8.20427375e+01  1.11655003e+02 -1.13109201e-01
+ -4.44977533e-02  7.31282206e-04]",37.368718090028906,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00030.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00030_kp.png,False
+"[-2.85694437e+03  8.83196695e+01  1.15115722e+02 -1.15726712e-01
+ -4.40757862e-02  0.00000000e+00]","[-2.82026952e+03  8.20427375e+01  1.11655003e+02 -1.13109201e-01
+ -4.44977533e-02  7.31282206e-04]",37.368718090028906,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00031.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00031_kp.png,False
+"[-2.96641592e+03 -2.81106029e+00  1.13387114e+02  3.90227853e-02
+ -3.03760025e-02  0.00000000e+00]","[-2.94490878e+03 -2.17284819e+00  1.11795217e+02  3.92897218e-02
+ -3.01875079e-02 -7.55215153e-03]",21.575407813803082,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00032.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00032_kp.png,False
+"[-2.96641592e+03 -2.81106029e+00  1.13387114e+02  3.90227853e-02
+ -3.03760025e-02  0.00000000e+00]","[-2.94490878e+03 -2.17284819e+00  1.11795217e+02  3.92897218e-02
+ -3.01875079e-02 -7.55215153e-03]",21.575407813803082,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00033.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00033_kp.png,False
+"[-2.55178942e+03 -5.39245392e+01  9.50583712e+01 -1.00840535e-01
+ -1.03212581e-01  0.00000000e+00]","[-2.56451144e+03 -4.36914391e+01  7.45996760e+01 -1.08090724e-01
+ -1.19852185e-01 -3.82075057e-03]",26.17487744034053,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00034.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00034_kp.png,False
+"[-2.55178942e+03 -5.39245392e+01  9.50583712e+01 -1.00840535e-01
+ -1.03212581e-01  0.00000000e+00]","[-2.56451144e+03 -4.36914391e+01  7.45996760e+01 -1.08090724e-01
+ -1.19852185e-01 -3.82075057e-03]",26.17487744034053,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00035.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00035_kp.png,False
+"[-2.90273681e+03  1.86781129e+01  1.04262494e+02 -6.67132302e-02
+  2.22023439e-02  0.00000000e+00]","[-2.86734278e+03  1.47227508e+01  9.66723184e+01 -6.50832469e-02
+  1.99203597e-02  1.91599942e-02]",36.41418983073523,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00036.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00036_kp.png,False
+"[-2.90273681e+03  1.86781129e+01  1.04262494e+02 -6.67132302e-02
+  2.22023439e-02  0.00000000e+00]","[-2.86734278e+03  1.47227508e+01  9.66723184e+01 -6.50832469e-02
+  1.99203597e-02  1.91599942e-02]",36.41418983073523,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00037.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00037_kp.png,False
+"[-2.66396314e+03 -2.85033732e+01  9.96845255e+01  1.35067361e-02
+ -1.12738673e-01  0.00000000e+00]","[-2.66783165e+03 -3.06105630e+00  5.68261568e+01  2.49215647e-04
+ -1.42764204e-01 -2.61718602e-02]",49.99116561257683,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00038.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00038_kp.png,False
+"[-2.66396314e+03 -2.85033732e+01  9.96845255e+01  1.35067361e-02
+ -1.12738673e-01  0.00000000e+00]","[-2.66783165e+03 -3.06105630e+00  5.68261568e+01  2.49215647e-04
+ -1.42764204e-01 -2.61718602e-02]",49.99116561257683,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00039.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00039_kp.png,False
+"[-2.58663283e+03  2.18927841e+01  9.24915140e+01 -5.06243278e-02
+ -1.18157675e-01  0.00000000e+00]","[-2.41783373e+03  6.86647633e+01  7.85707346e+01  1.87724362e-02
+ -1.00721766e-01 -6.33725992e-01]",175.71152519046913,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00040.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00040_kp.png,False
+"[-2.58663283e+03  2.18927841e+01  9.24915140e+01 -5.06243278e-02
+ -1.18157675e-01  0.00000000e+00]","[-2.41783373e+03  6.86647633e+01  7.85707346e+01  1.87724362e-02
+ -1.00721766e-01 -6.33725992e-01]",175.71152519046913,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00041.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00041_kp.png,False
+"[-2.67757162e+03  7.64450462e+01  1.02672418e+02  1.38018906e-01
+  1.38116583e-02  0.00000000e+00]","[-2.67245236e+03  7.73702059e+01  1.02507488e+02  1.37120491e-01
+  1.39249112e-02 -2.54773977e-04]",5.204795087295625,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00042.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00042_kp.png,False
+"[-2.67757162e+03  7.64450462e+01  1.02672418e+02  1.38018906e-01
+  1.38116583e-02  0.00000000e+00]","[-2.67245236e+03  7.73702059e+01  1.02507488e+02  1.37120491e-01
+  1.39249112e-02 -2.54773977e-04]",5.204795087295625,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00043.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00043_kp.png,False
+"[-2.98692207e+03 -5.50618361e+01  1.27172740e+02  1.51254704e-01
+  2.57837441e-02  0.00000000e+00]","[-2.95491024e+03 -5.43030933e+01  1.22564119e+02  1.51263292e-01
+  2.41114494e-02  1.53906399e-03]",32.350771822100434,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00044.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00044_kp.png,False
+"[-2.98692207e+03 -5.50618361e+01  1.27172740e+02  1.51254704e-01
+  2.57837441e-02  0.00000000e+00]","[-2.95491024e+03 -5.43030933e+01  1.22564119e+02  1.51263292e-01
+  2.41114494e-02  1.53906399e-03]",32.350771822100434,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00045.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00045_kp.png,False
+"[-2.65763438e+03  3.27601581e+01  9.90259926e+01  1.43471709e-01
+ -1.21953752e-01  0.00000000e+00]","[-3.62798832e+03 -5.64092556e+01  1.69246309e+02  1.83209995e-01
+ -1.11194325e-01  1.83375999e-02]",976.9692159654267,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00046.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00046_kp.png,False
+"[-2.65763438e+03  3.27601581e+01  9.90259926e+01  1.43471709e-01
+ -1.21953752e-01  0.00000000e+00]","[-3.62798832e+03 -5.64092556e+01  1.69246309e+02  1.83209995e-01
+ -1.11194325e-01  1.83375999e-02]",976.9692159654267,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00047.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00047_kp.png,False
+"[-2.97789010e+03 -6.16294001e+00  1.22290447e+02 -1.59732481e-02
+  4.19218101e-02  0.00000000e+00]","[-2.94635832e+03 -7.20262532e+00  1.17410756e+02 -1.53234570e-02
+  4.02762428e-02 -1.08962260e-03]",31.92405611141892,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00048.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00048_kp.png,False
+"[-2.97789010e+03 -6.16294001e+00  1.22290447e+02 -1.59732481e-02
+  4.19218101e-02  0.00000000e+00]","[-2.94635832e+03 -7.20262532e+00  1.17410756e+02 -1.53234570e-02
+  4.02762428e-02 -1.08962260e-03]",31.92405611141892,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00049.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00049_kp.png,False
+"[-2.42245494e+03 -5.48614450e+01  7.22920766e+01  1.12766142e-01
+ -1.22690522e-01  0.00000000e+00]","[-2.50469398e+03 -3.44315023e+01  3.83975639e+01  9.44661118e-02
+ -1.53165045e-01 -2.07538422e-03]",91.26598743223431,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00050.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00050_kp.png,False
+"[-2.42245494e+03 -5.48614450e+01  7.22920766e+01  1.12766142e-01
+ -1.22690522e-01  0.00000000e+00]","[-2.50469398e+03 -3.44315023e+01  3.83975639e+01  9.44661118e-02
+ -1.53165045e-01 -2.07538422e-03]",91.26598743223431,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00051.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00051_kp.png,False
+"[-2.39881244e+03  8.13486402e+00  8.69818647e+01 -4.95582023e-02
+ -1.02986228e-01  0.00000000e+00]","[-2.41105496e+03 -3.48937944e+00  5.22933316e+01 -3.80913223e-02
+ -1.33622348e-01 -7.24244101e-03]",38.57845012348533,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00052.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00052_kp.png,False
+"[-2.39881244e+03  8.13486402e+00  8.69818647e+01 -4.95582023e-02
+ -1.02986228e-01  0.00000000e+00]","[-2.41105496e+03 -3.48937944e+00  5.22933316e+01 -3.80913223e-02
+ -1.33622348e-01 -7.24244101e-03]",38.57845012348533,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00053.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00053_kp.png,False
+"[-2.08854365e+03  4.33903766e+01  4.79704999e+01 -4.37157035e-03
+ -8.74926941e-02  0.00000000e+00]","[-2.15990363e+03  7.46437220e+01  5.55285771e+01 -2.81226236e-02
+ -8.07047474e-02 -4.20221748e-02]",78.26968403217313,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00054.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00054_kp.png,False
+"[-2.08854365e+03  4.33903766e+01  4.79704999e+01 -4.37157035e-03
+ -8.74926941e-02  0.00000000e+00]","[-2.15990363e+03  7.46437220e+01  5.55285771e+01 -2.81226236e-02
+ -8.07047474e-02 -4.20221748e-02]",78.26968403217313,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00055.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00055_kp.png,False
+"[-2.27854755e+03  2.82706184e+01  6.04871634e+01 -2.38882325e-02
+ -9.35222013e-02  0.00000000e+00]","[-2.23407715e+03  1.81807037e+01  6.09497128e+01 -1.98936036e-02
+ -9.07291580e-02  3.35860781e-02]",45.6030292676654,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00056.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00056_kp.png,False
+"[-2.27854755e+03  2.82706184e+01  6.04871634e+01 -2.38882325e-02
+ -9.35222013e-02  0.00000000e+00]","[-2.23407715e+03  1.81807037e+01  6.09497128e+01 -1.98936036e-02
+ -9.07291580e-02  3.35860781e-02]",45.6030292676654,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00057.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00057_kp.png,False
+"[-2.66983680e+03  2.11366355e+01  9.79925977e+01 -1.34343331e-01
+ -1.13873564e-01  0.00000000e+00]","[-2.67184078e+03  2.03634004e+01  4.92581589e+01 -1.33978559e-01
+ -1.48405436e-01  1.28658380e-03]",48.7817523150392,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00058.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00058_kp.png,False
+"[-2.66983680e+03  2.11366355e+01  9.79925977e+01 -1.34343331e-01
+ -1.13873564e-01  0.00000000e+00]","[-2.67184078e+03  2.03634004e+01  4.92581589e+01 -1.33978559e-01
+ -1.48405436e-01  1.28658380e-03]",48.7817523150392,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00059.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00059_kp.png,False
+"[-2.79996683e+03 -1.32881607e+01  1.15298335e+02  9.40844756e-02
+ -1.06086842e-01  0.00000000e+00]","[-2.79341171e+03 -1.06205546e+00  7.87556254e+01  8.89961094e-02
+ -1.27976547e-01 -1.71942345e-02]",39.087298314084535,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00060.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00060_kp.png,False
+"[-2.79996683e+03 -1.32881607e+01  1.15298335e+02  9.40844756e-02
+ -1.06086842e-01  0.00000000e+00]","[-2.79341171e+03 -1.06205546e+00  7.87556254e+01  8.89961094e-02
+ -1.27976547e-01 -1.71942345e-02]",39.087298314084535,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00061.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00061_kp.png,False
+"[-2.83471053e+03 -6.39575182e+01  1.04291530e+02 -2.06448834e-02
+ -1.21338819e-01  0.00000000e+00]","[-2.83711593e+03 -4.84730840e+00  4.20919727e+01 -5.13956274e-02
+ -1.62151576e-01 -3.52727570e-02]",85.84047807793121,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00062.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00062_kp.png,False
+"[-2.83471053e+03 -6.39575182e+01  1.04291530e+02 -2.06448834e-02
+ -1.21338819e-01  0.00000000e+00]","[-2.83711593e+03 -4.84730840e+00  4.20919727e+01 -5.13956274e-02
+ -1.62151576e-01 -3.52727570e-02]",85.84047807793121,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00063.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00063_kp.png,False
+"[-2.23264661e+03  2.23646078e+01  5.81540649e+01 -2.54839687e-02
+ -1.03064993e-02  0.00000000e+00]","[-2.25147785e+03  1.20932189e+01  6.41875384e+01 -1.49160078e-02
+ -5.52968672e-03  1.23017995e-03]",22.282725007953747,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00064.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00064_kp.png,False
+"[-2.23264661e+03  2.23646078e+01  5.81540649e+01 -2.54839687e-02
+ -1.03064993e-02  0.00000000e+00]","[-2.25147785e+03  1.20932189e+01  6.41875384e+01 -1.49160078e-02
+ -5.52968672e-03  1.23017995e-03]",22.282725007953747,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00065.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00065_kp.png,False
+"[-2.83014405e+03 -6.90480931e+01  1.10984347e+02  9.13830370e-02
+ -1.46203290e-01  0.00000000e+00]","[-3.73524898e+03 -1.58119319e+02  1.12124179e+02  8.32249617e-02
+ -1.46273569e-01  2.78354327e-01]",909.4778310336297,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00066.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00066_kp.png,False
+"[-2.83014405e+03 -6.90480931e+01  1.10984347e+02  9.13830370e-02
+ -1.46203290e-01  0.00000000e+00]","[-3.73524898e+03 -1.58119319e+02  1.12124179e+02  8.32249617e-02
+ -1.46273569e-01  2.78354327e-01]",909.4778310336297,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00067.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00067_kp.png,False
+"[-2.96082166e+03 -7.64640328e+01  1.12639659e+02 -6.95728332e-02
+ -9.78573850e-02  0.00000000e+00]","[-2.94119507e+03 -7.72546639e+01  1.13053481e+02 -6.75616202e-02
+ -9.73624314e-02 -5.13498236e-03]",19.646871565161213,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00068.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00068_kp.png,False
+"[-2.96082166e+03 -7.64640328e+01  1.12639659e+02 -6.95728332e-02
+ -9.78573850e-02  0.00000000e+00]","[-2.94119507e+03 -7.72546639e+01  1.13053481e+02 -6.75616202e-02
+ -9.73624314e-02 -5.13498236e-03]",19.646871565161213,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00069.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00069_kp.png,False
+"[-2.90576966e+03 -9.34466273e+01  1.22091229e+02 -1.61362204e-01
+ -6.55550342e-02  0.00000000e+00]","[-2.88210509e+03 -3.37744722e+01  1.23135762e+02 -1.96059084e-01
+ -6.48855045e-02 -5.58496958e-03]",64.20178281258201,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00070.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00070_kp.png,False
+"[-2.90576966e+03 -9.34466273e+01  1.22091229e+02 -1.61362204e-01
+ -6.55550342e-02  0.00000000e+00]","[-2.88210509e+03 -3.37744722e+01  1.23135762e+02 -1.96059084e-01
+ -6.48855045e-02 -5.58496958e-03]",64.20178281258201,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00071.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00071_kp.png,False
+"[-2.80776252e+03  5.47100864e+01  1.00611689e+02 -1.84357579e-02
+ -1.20986430e-01  0.00000000e+00]","[-2.89014217e+03  2.63146529e+01  4.99001507e+01 -2.27609126e-04
+ -1.54827299e-01  2.37854325e-03]",100.81848399944793,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00072.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00072_kp.png,False
+"[-2.80776252e+03  5.47100864e+01  1.00611689e+02 -1.84357579e-02
+ -1.20986430e-01  0.00000000e+00]","[-2.89014217e+03  2.63146529e+01  4.99001507e+01 -2.27609126e-04
+ -1.54827299e-01  2.37854325e-03]",100.81848399944793,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00073.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00073_kp.png,False
+"[-2.75080770e+03  7.73419939e+01  1.01466044e+02  1.56677307e-01
+ -4.96869763e-02  0.00000000e+00]","[-2.75272890e+03  7.15975413e+01  1.02482771e+02  1.60205405e-01
+ -4.99226655e-02  3.43256725e-03]",6.141943843474159,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00074.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00074_kp.png,False
+"[-2.75080770e+03  7.73419939e+01  1.01466044e+02  1.56677307e-01
+ -4.96869763e-02  0.00000000e+00]","[-2.75272890e+03  7.15975413e+01  1.02482771e+02  1.60205405e-01
+ -4.99226655e-02  3.43256725e-03]",6.141943843474159,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00075.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00075_kp.png,False
+"[-2.59564887e+03  5.01723347e+00  9.05462939e+01  1.45160681e-01
+ -1.14640802e-01  0.00000000e+00]","[-2.65416905e+03 -2.77211375e+00  5.49907666e+01  1.49438980e-01
+ -1.43679131e-01  7.03327315e-03]",68.9164753086485,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00076.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00076_kp.png,False
+"[-2.59564887e+03  5.01723347e+00  9.05462939e+01  1.45160681e-01
+ -1.14640802e-01  0.00000000e+00]","[-2.65416905e+03 -2.77211375e+00  5.49907666e+01  1.49438980e-01
+ -1.43679131e-01  7.03327315e-03]",68.9164753086485,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00077.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00077_kp.png,False
+"[-2.96288607e+03 -7.30742355e+01  1.20683297e+02 -6.90602884e-02
+ -2.90800459e-02  0.00000000e+00]","[-2.93468255e+03 -7.00034442e+01  1.20167892e+02 -6.95966025e-02
+ -2.86148602e-02 -5.60748282e-03]",28.374879156829213,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00078.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00078_kp.png,False
+"[-2.96288607e+03 -7.30742355e+01  1.20683297e+02 -6.90602884e-02
+ -2.90800459e-02  0.00000000e+00]","[-2.93468255e+03 -7.00034442e+01  1.20167892e+02 -6.95966025e-02
+ -2.86148602e-02 -5.60748282e-03]",28.374879156829213,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00079.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00079_kp.png,False
+"[-2.37729293e+03 -5.47877691e+01  7.89615057e+01 -9.29231759e-02
+ -1.15011541e-01  0.00000000e+00]","[-2.29968096e+03 -1.95335724e+01  3.07075625e+01 -1.12531464e-01
+ -1.63844749e-01 -5.68891797e-02]",97.95365725119419,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00080.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00080_kp.png,False
+"[-2.37729293e+03 -5.47877691e+01  7.89615057e+01 -9.29231759e-02
+ -1.15011541e-01  0.00000000e+00]","[-2.29968096e+03 -1.95335724e+01  3.07075625e+01 -1.12531464e-01
+ -1.63844749e-01 -5.68891797e-02]",97.95365725119419,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00081.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00081_kp.png,False
+"[-2.97900284e+03  6.47467103e+01  1.13450375e+02  5.49309784e-02
+  1.03118845e-02  0.00000000e+00]","[-2.96221291e+03  6.33217111e+01  1.10895591e+02  5.54259501e-02
+  9.57494243e-03 -2.95384915e-03]",17.042865614547406,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00082.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00082_kp.png,False
+"[-2.97900284e+03  6.47467103e+01  1.13450375e+02  5.49309784e-02
+  1.03118845e-02  0.00000000e+00]","[-2.96221291e+03  6.33217111e+01  1.10895591e+02  5.54259501e-02
+  9.57494243e-03 -2.95384915e-03]",17.042865614547406,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00083.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00083_kp.png,False
+"[-2.99267081e+03  1.12431599e+01  1.10886934e+02  4.82854275e-02
+ -5.58434554e-02  0.00000000e+00]","[-2.95057480e+03  6.42812511e+00  1.04947264e+02  5.13166863e-02
+ -5.78136141e-02 -2.54802829e-03]",42.784791155239674,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00084.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00084_kp.png,False
+"[-2.99267081e+03  1.12431599e+01  1.10886934e+02  4.82854275e-02
+ -5.58434554e-02  0.00000000e+00]","[-2.95057480e+03  6.42812511e+00  1.04947264e+02  5.13166863e-02
+ -5.78136141e-02 -2.54802829e-03]",42.784791155239674,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00085.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00085_kp.png,False
+"[-2.30259842e+03  3.34819950e+01  7.38189179e+01  3.58584498e-02
+ -5.39493091e-02  0.00000000e+00]","[-2.26440018e+03  2.23037187e+01  7.56522084e+01  4.02336469e-02
+ -5.27391242e-02  4.56129589e-02]",39.842443658892265,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00086.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00086_kp.png,False
+"[-2.30259842e+03  3.34819950e+01  7.38189179e+01  3.58584498e-02
+ -5.39493091e-02  0.00000000e+00]","[-2.26440018e+03  2.23037187e+01  7.56522084e+01  4.02336469e-02
+ -5.27391242e-02  4.56129589e-02]",39.842443658892265,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00087.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00087_kp.png,False
+"[-2.17385858e+03 -2.34675200e+01  6.07395237e+01  5.14504195e-02
+ -1.03103911e-01  0.00000000e+00]","[-2.16022385e+03  7.11723073e+00  4.75536685e+01  2.63786748e-02
+ -1.14695585e-01 -5.76223060e-02]",35.988883451671875,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00088.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00088_kp.png,False
+"[-2.17385858e+03 -2.34675200e+01  6.07395237e+01  5.14504195e-02
+ -1.03103911e-01  0.00000000e+00]","[-2.16022385e+03  7.11723073e+00  4.75536685e+01  2.63786748e-02
+ -1.14695585e-01 -5.76223060e-02]",35.988883451671875,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00089.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00089_kp.png,False
+"[-2.62896000e+03 -5.84746411e+01  8.85852473e+01 -8.86358277e-02
+ -1.28719698e-01  0.00000000e+00]","[-3.45171181e+03  1.94761385e+01  8.30250490e+01 -9.44697104e-02
+ -1.64430372e-01 -2.00838091e-01]",826.4549553459387,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00090.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00090_kp.png,False
+"[-2.62896000e+03 -5.84746411e+01  8.85852473e+01 -8.86358277e-02
+ -1.28719698e-01  0.00000000e+00]","[-3.45171181e+03  1.94761385e+01  8.30250490e+01 -9.44697104e-02
+ -1.64430372e-01 -2.00838091e-01]",826.4549553459387,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00091.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00091_kp.png,False
+"[-2.14762490e+03  3.18541889e+00  7.02652984e+01  1.18230670e-01
+ -1.00526529e-02  0.00000000e+00]","[-2.17203462e+03  1.40431558e+01  7.13607645e+01  1.11367699e-01
+ -2.45916326e-03 -6.15621143e-02]",26.738086437506166,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00092.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00092_kp.png,False
+"[-2.14762490e+03  3.18541889e+00  7.02652984e+01  1.18230670e-01
+ -1.00526529e-02  0.00000000e+00]","[-2.17203462e+03  1.40431558e+01  7.13607645e+01  1.11367699e-01
+ -2.45916326e-03 -6.15621143e-02]",26.738086437506166,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00093.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00093_kp.png,False
+"[-2.21089364e+03 -2.62192973e+01  7.31790412e+01 -4.13987934e-02
+ -1.11493138e-01  0.00000000e+00]","[-2.15609135e+03 -2.61885587e+00  4.27220034e+01 -2.44079105e-02
+ -1.48157424e-01 -2.24015264e-01]",66.991810944377,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00094.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00094_kp.png,False
+"[-2.21089364e+03 -2.62192973e+01  7.31790412e+01 -4.13987934e-02
+ -1.11493138e-01  0.00000000e+00]","[-2.15609135e+03 -2.61885587e+00  4.27220034e+01 -2.44079105e-02
+ -1.48157424e-01 -2.24015264e-01]",66.991810944377,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00095.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00095_kp.png,False
+"[-2.76199066e+03 -1.08295618e+01  1.07223496e+02 -4.78181412e-02
+  5.43093898e-03  0.00000000e+00]","[-2.76592199e+03 -1.05809130e+01  1.08615700e+02 -4.77306470e-02
+  5.92761989e-03 -1.89185352e-03]",4.177968886304753,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00096.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00096_kp.png,False
+"[-2.76199066e+03 -1.08295618e+01  1.07223496e+02 -4.78181412e-02
+  5.43093898e-03  0.00000000e+00]","[-2.76592199e+03 -1.05809130e+01  1.08615700e+02 -4.77306470e-02
+  5.92761989e-03 -1.89185352e-03]",4.177968886304753,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00097.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00097_kp.png,False
+"[-2.96968059e+03 -8.24179222e+01  1.13657710e+02  1.51013147e-01
+ -2.03911830e-02  0.00000000e+00]","[-2.93258641e+03 -8.14680831e+01  1.08834334e+02  1.50847187e-01
+ -2.28497421e-02  8.66954284e-03]",37.418516088256325,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00098.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00098_kp.png,False
+"[-2.96968059e+03 -8.24179222e+01  1.13657710e+02  1.51013147e-01
+ -2.03911830e-02  0.00000000e+00]","[-2.93258641e+03 -8.14680831e+01  1.08834334e+02  1.50847187e-01
+ -2.28497421e-02  8.66954284e-03]",37.418516088256325,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00099.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00099_kp.png,False
+"[-2.20512760e+03  7.82425567e+00  6.86661528e+01 -1.16201321e-01
+ -7.11389785e-02  0.00000000e+00]","[-2.15833539e+03  1.73561493e-01  6.40209820e+01 -1.11196814e-01
+ -7.08785579e-02  2.10632796e-02]",47.64054432914932,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00100.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00100_kp.png,False
+"[-2.20512760e+03  7.82425567e+00  6.86661528e+01 -1.16201321e-01
+ -7.11389785e-02  0.00000000e+00]","[-2.15833539e+03  1.73561493e-01  6.40209820e+01 -1.11196814e-01
+ -7.08785579e-02  2.10632796e-02]",47.64054432914932,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00101.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00101_kp.png,False
+"[-2.91403633e+03 -4.05164236e+01  1.18636179e+02  4.50071663e-02
+ -1.09945252e-01  0.00000000e+00]","[-2.88956016e+03 -2.17537867e+01  8.08980302e+01  3.29323144e-02
+ -1.31809390e-01  4.93755455e-03]",48.73691956082241,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00102.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00102_kp.png,False
+"[-2.91403633e+03 -4.05164236e+01  1.18636179e+02  4.50071663e-02
+ -1.09945252e-01  0.00000000e+00]","[-2.88956016e+03 -2.17537867e+01  8.08980302e+01  3.29323144e-02
+ -1.31809390e-01  4.93755455e-03]",48.73691956082241,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00103.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00103_kp.png,False
+"[-2.96235534e+03 -8.36964726e+01  1.10208657e+02  6.73107520e-02
+ -1.37637690e-02  0.00000000e+00]","[-2.92965010e+03 -8.19055481e+01  1.08635215e+02  6.75438076e-02
+ -1.35097982e-02 -2.19278689e-03]",32.79200498123651,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00104.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00104_kp.png,False
+"[-2.96235534e+03 -8.36964726e+01  1.10208657e+02  6.73107520e-02
+ -1.37637690e-02  0.00000000e+00]","[-2.92965010e+03 -8.19055481e+01  1.08635215e+02  6.75438076e-02
+ -1.35097982e-02 -2.19278689e-03]",32.79200498123651,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00105.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00105_kp.png,False
+"[-2.71887008e+03  7.21655927e+01  9.78728980e+01 -8.93316992e-02
+ -1.12477032e-01  0.00000000e+00]","[-2.67767998e+03  5.64821839e+01  7.49560039e+01 -7.68505961e-02
+ -1.27285565e-01 -1.72417169e-02]",49.676735639391424,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00106.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00106_kp.png,False
+"[-2.71887008e+03  7.21655927e+01  9.78728980e+01 -8.93316992e-02
+ -1.12477032e-01  0.00000000e+00]","[-2.67767998e+03  5.64821839e+01  7.49560039e+01 -7.68505961e-02
+ -1.27285565e-01 -1.72417169e-02]",49.676735639391424,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00107.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00107_kp.png,False
+"[-2.86166644e+03  1.19250772e+01  1.17837994e+02 -5.56059718e-02
+ -1.06842271e-01  0.00000000e+00]","[-2.83457955e+03 -8.63415953e-01  8.87909760e+01 -5.28478499e-02
+ -1.22483313e-01  2.87226511e-02]",41.724985172344994,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00108.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00108_kp.png,False
+"[-2.86166644e+03  1.19250772e+01  1.17837994e+02 -5.56059718e-02
+ -1.06842271e-01  0.00000000e+00]","[-2.83457955e+03 -8.63415953e-01  8.87909760e+01 -5.28478499e-02
+ -1.22483313e-01  2.87226511e-02]",41.724985172344994,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00109.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00109_kp.png,False
+"[-2.96275618e+03 -7.97131666e+00  1.12854717e+02  7.96746296e-02
+ -4.70867266e-02  0.00000000e+00]","[-2.92956411e+03 -8.01272493e+00  1.11930630e+02  7.98608682e-02
+ -4.61669052e-02 -1.20958714e-03]",33.20495071724729,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00110.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00110_kp.png,False
+"[-2.96275618e+03 -7.97131666e+00  1.12854717e+02  7.96746296e-02
+ -4.70867266e-02  0.00000000e+00]","[-2.92956411e+03 -8.01272493e+00  1.11930630e+02  7.98608682e-02
+ -4.61669052e-02 -1.20958714e-03]",33.20495071724729,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00111.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00111_kp.png,False
+"[-2.80386155e+03 -7.53088679e+01  1.02736716e+02  7.41290605e-02
+ -1.10936619e-01  0.00000000e+00]","[-2.76106047e+03 -6.93861075e+01  9.28650591e+01  7.35425800e-02
+ -1.15196680e-01 -1.14927997e-02]",44.322244362230904,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00112.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00112_kp.png,False
+"[-2.80386155e+03 -7.53088679e+01  1.02736716e+02  7.41290605e-02
+ -1.10936619e-01  0.00000000e+00]","[-2.76106047e+03 -6.93861075e+01  9.28650591e+01  7.35425800e-02
+ -1.15196680e-01 -1.14927997e-02]",44.322244362230904,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00113.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00113_kp.png,False
+"[-2.90807281e+03  1.21657565e+01  1.22026277e+02 -5.50868526e-03
+ -1.48768802e-01  0.00000000e+00]","[-3.48812054e+03 -3.34174362e+01  8.75988357e+01  3.75591054e-02
+ -1.42312027e-01 -1.45081959e-01]",582.8537057082063,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00114.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00114_kp.png,False
+"[-2.90807281e+03  1.21657565e+01  1.22026277e+02 -5.50868526e-03
+ -1.48768802e-01  0.00000000e+00]","[-3.48812054e+03 -3.34174362e+01  8.75988357e+01  3.75591054e-02
+ -1.42312027e-01 -1.45081959e-01]",582.8537057082063,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00115.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00115_kp.png,False
+"[-2.41939142e+03 -3.52443316e+01  8.47231214e+01  1.25957099e-01
+ -1.06207504e-01  0.00000000e+00]","[-2.40322196e+03 -1.55499212e+01  5.70842535e+01  1.15513131e-01
+ -1.25595381e-01 -3.43884825e-02]",37.592931499525626,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00116.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00116_kp.png,False
+"[-2.41939142e+03 -3.52443316e+01  8.47231214e+01  1.25957099e-01
+ -1.06207504e-01  0.00000000e+00]","[-2.40322196e+03 -1.55499212e+01  5.70842535e+01  1.15513131e-01
+ -1.25595381e-01 -3.43884825e-02]",37.592931499525626,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00117.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00117_kp.png,False
+"[-2.89937280e+03  4.91368786e+01  1.07497014e+02  4.91081836e-02
+ -1.21753456e-01  0.00000000e+00]","[-2.85562913e+03  3.81312845e+01  3.70223070e+01  5.50173337e-02
+ -1.63423350e-01 -4.82247736e-03]",83.67386755370764,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00118.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00118_kp.png,False
+"[-2.89937280e+03  4.91368786e+01  1.07497014e+02  4.91081836e-02
+ -1.21753456e-01  0.00000000e+00]","[-2.85562913e+03  3.81312845e+01  3.70223070e+01  5.50173337e-02
+ -1.63423350e-01 -4.82247736e-03]",83.67386755370764,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00119.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00119_kp.png,False
+"[-2.98356966e+03  8.12428932e+01  1.18764398e+02  2.28697761e-02
+  4.72330115e-02  0.00000000e+00]","[-2.94858179e+03  7.57538212e+01  1.14542596e+02  2.51527167e-02
+  4.65191427e-02 -5.31401895e-03]",35.666569314019625,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00120.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00120_kp.png,False
+"[-2.98356966e+03  8.12428932e+01  1.18764398e+02  2.28697761e-02
+  4.72330115e-02  0.00000000e+00]","[-2.94858179e+03  7.57538212e+01  1.14542596e+02  2.51527167e-02
+  4.65191427e-02 -5.31401895e-03]",35.666569314019625,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00121.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00121_kp.png,False
+"[-2.40474466e+03  6.35694757e+01  8.14314344e+01 -1.14393039e-01
+ -1.05573232e-01  0.00000000e+00]","[-2.38768156e+03  8.89620602e+01  3.91294630e+01 -1.38119809e-01
+ -1.41439582e-01  1.54445578e-03]",52.20526247189376,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00122.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00122_kp.png,False
+"[-2.40474466e+03  6.35694757e+01  8.14314344e+01 -1.14393039e-01
+ -1.05573232e-01  0.00000000e+00]","[-2.38768156e+03  8.89620602e+01  3.91294630e+01 -1.38119809e-01
+ -1.41439582e-01  1.54445578e-03]",52.20526247189376,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00123.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00123_kp.png,False
+"[-2.99579656e+03 -8.44765591e+00  1.10721709e+02  9.33349601e-02
+ -4.62178772e-03  0.00000000e+00]","[-2.97277712e+03 -8.82190816e+00  1.10958804e+02  9.34197767e-02
+ -3.80629619e-03  1.63729723e-03]",23.023710308413023,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00124.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00124_kp.png,False
+"[-2.99579656e+03 -8.44765591e+00  1.10721709e+02  9.33349601e-02
+ -4.62178772e-03  0.00000000e+00]","[-2.97277712e+03 -8.82190816e+00  1.10958804e+02  9.34197767e-02
+ -3.80629619e-03  1.63729723e-03]",23.023710308413023,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00125.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00125_kp.png,False
+"[-2.96173620e+03 -8.49264867e+01  1.12867576e+02 -7.60255610e-02
+ -6.09670966e-02  0.00000000e+00]","[-2.92651714e+03 -8.12955276e+01  1.10566272e+02 -7.70478024e-02
+ -6.09749510e-02 -6.97312864e-04]",35.480441870262084,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00126.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00126_kp.png,False
+"[-2.96173620e+03 -8.49264867e+01  1.12867576e+02 -7.60255610e-02
+ -6.09670966e-02  0.00000000e+00]","[-2.92651714e+03 -8.12955276e+01  1.10566272e+02 -7.70478024e-02
+ -6.09749510e-02 -6.97312864e-04]",35.480441870262084,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00127.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00127_kp.png,False
+"[-2.59051988e+03 -6.96109925e+01  8.29783897e+01 -7.77707827e-02
+ -1.19084131e-01  0.00000000e+00]","[-2.62346088e+03 -4.96409922e+01  5.89205263e+01 -9.24306194e-02
+ -1.38358531e-01 -4.22666770e-03]",45.41685906418995,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00128.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00128_kp.png,False
+"[-2.59051988e+03 -6.96109925e+01  8.29783897e+01 -7.77707827e-02
+ -1.19084131e-01  0.00000000e+00]","[-2.62346088e+03 -4.96409922e+01  5.89205263e+01 -9.24306194e-02
+ -1.38358531e-01 -4.22666770e-03]",45.41685906418995,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00129.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00129_kp.png,False
+"[-2.45932185e+03  3.67423501e+01  8.38138172e+01  7.51203283e-02
+ -1.12774038e-01  0.00000000e+00]","[-2.48005197e+03  2.39773581e+01  4.35690597e+01  8.52309529e-02
+ -1.47017600e-01  2.87710293e-03]",47.03534334969297,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00130.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00130_kp.png,False
+"[-2.45932185e+03  3.67423501e+01  8.38138172e+01  7.51203283e-02
+ -1.12774038e-01  0.00000000e+00]","[-2.48005197e+03  2.39773581e+01  4.35690597e+01  8.52309529e-02
+ -1.47017600e-01  2.87710293e-03]",47.03534334969297,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00131.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00131_kp.png,False
+"[-2.93393210e+03 -3.27725728e+01  1.07755146e+02 -1.62895122e-01
+ -1.19939968e-01  0.00000000e+00]","[-2.89150511e+03 -3.34241716e+01  5.76293500e+01 -1.67999152e-01
+ -1.42993254e-01  3.41429883e-02]",65.67396390325045,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00132.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00132_kp.png,False
+"[-2.93393210e+03 -3.27725728e+01  1.07755146e+02 -1.62895122e-01
+ -1.19939968e-01  0.00000000e+00]","[-2.89150511e+03 -3.34241716e+01  5.76293500e+01 -1.67999152e-01
+ -1.42993254e-01  3.41429883e-02]",65.67396390325045,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00133.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00133_kp.png,False
+"[-2.47292186e+03 -5.48358975e+01  7.89788416e+01  7.30461353e-02
+ -1.20326164e-01  0.00000000e+00]","[-2.48892406e+03 -4.09440343e+01  2.94663796e+01  6.36367285e-02
+ -1.61785450e-01 -7.16716130e-03]",53.85664336086364,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00134.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00134_kp.png,False
+"[-2.47292186e+03 -5.48358975e+01  7.89788416e+01  7.30461353e-02
+ -1.20326164e-01  0.00000000e+00]","[-2.48892406e+03 -4.09440343e+01  2.94663796e+01  6.36367285e-02
+ -1.61785450e-01 -7.16716130e-03]",53.85664336086364,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00135.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00135_kp.png,False
+"[-2.95301775e+03  9.25878974e+01  1.16544436e+02  7.67133510e-02
+ -1.34227392e-01  0.00000000e+00]","[-3.43522281e+03  1.69281871e+02  7.12479663e+01  3.04520163e-02
+ -1.53286894e-01  2.23321625e-03]",490.3625746187127,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00136.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00136_kp.png,False
+"[-2.95301775e+03  9.25878974e+01  1.16544436e+02  7.67133510e-02
+ -1.34227392e-01  0.00000000e+00]","[-3.43522281e+03  1.69281871e+02  7.12479663e+01  3.04520163e-02
+ -1.53286894e-01  2.23321625e-03]",490.3625746187127,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00137.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00137_kp.png,False
+"[-2.42169709e+03 -5.24139883e+01  8.51633357e+01 -4.98905649e-02
+ -1.02756646e-01  0.00000000e+00]","[-2.29689212e+03 -4.87601568e+01  5.00114131e+01 -4.45552927e-02
+ -1.29668553e-01 -1.74481321e-02]",129.71233503833176,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00138.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00138_kp.png,False
+"[-2.42169709e+03 -5.24139883e+01  8.51633357e+01 -4.98905649e-02
+ -1.02756646e-01  0.00000000e+00]","[-2.29689212e+03 -4.87601568e+01  5.00114131e+01 -4.45552927e-02
+ -1.29668553e-01 -1.74481321e-02]",129.71233503833176,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00139.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00139_kp.png,False
+"[-2.93113255e+03 -5.32055419e+01  1.18835281e+02 -1.23476671e-01
+ -1.14111942e-01  0.00000000e+00]","[-2.90918651e+03 -4.56970505e+00  5.63999373e+01 -1.45398768e-01
+ -1.56152914e-01 -3.64954304e-02]",82.12944299244091,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00140.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00140_kp.png,False
+"[-2.93113255e+03 -5.32055419e+01  1.18835281e+02 -1.23476671e-01
+ -1.14111942e-01  0.00000000e+00]","[-2.90918651e+03 -4.56970505e+00  5.63999373e+01 -1.45398768e-01
+ -1.56152914e-01 -3.64954304e-02]",82.12944299244091,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00141.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00141_kp.png,False
+"[-2.77021234e+03 -3.16967772e+01  1.05773159e+02 -6.24265330e-02
+ -1.18724562e-01  0.00000000e+00]","[-2.84168166e+03 -1.17050209e+01  3.29596452e+01 -7.63569190e-02
+ -1.66856278e-01 -5.17515982e-03]",103.96798783267921,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00142.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00142_kp.png,False
+"[-2.77021234e+03 -3.16967772e+01  1.05773159e+02 -6.24265330e-02
+ -1.18724562e-01  0.00000000e+00]","[-2.84168166e+03 -1.17050209e+01  3.29596452e+01 -7.63569190e-02
+ -1.66856278e-01 -5.17515982e-03]",103.96798783267921,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00143.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00143_kp.png,False
+"[-2.20794806e+03  5.10832338e+01  6.21164434e+01 -8.73607739e-02
+ -1.00946718e-01  0.00000000e+00]","[-2.19269686e+03  5.65250648e+01  6.11757639e+01 -9.56256635e-02
+ -1.00912759e-01  4.27371278e-03]",16.220280574557744,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00144.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00144_kp.png,False
+"[-2.20794806e+03  5.10832338e+01  6.21164434e+01 -8.73607739e-02
+ -1.00946718e-01  0.00000000e+00]","[-2.19269686e+03  5.65250648e+01  6.11757639e+01 -9.56256635e-02
+ -1.00912759e-01  4.27371278e-03]",16.220280574557744,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00145.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00145_kp.png,False
+"[-2.93603388e+03 -5.51820074e+01  1.12720820e+02 -1.23212073e-02
+  3.44158184e-02  0.00000000e+00]","[-2.90603674e+03 -5.64496144e+01  1.08779561e+02 -1.08514515e-02
+  3.32334422e-02  3.07401132e-04]",30.281493479371253,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00146.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00146_kp.png,False
+"[-2.93603388e+03 -5.51820074e+01  1.12720820e+02 -1.23212073e-02
+  3.44158184e-02  0.00000000e+00]","[-2.90603674e+03 -5.64496144e+01  1.08779561e+02 -1.08514515e-02
+  3.32334422e-02  3.07401132e-04]",30.281493479371253,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00147.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00147_kp.png,False
+"[-2.93523195e+03  5.46403970e+01  1.13753561e+02 -7.83697453e-02
+ -1.10266175e-01  0.00000000e+00]","[-2.92615665e+03  5.25874373e+01  1.07348121e+02 -7.69176257e-02
+ -1.13955397e-01 -3.35110860e-03]",11.296257796413675,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00148.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00148_kp.png,False
+"[-2.93523195e+03  5.46403970e+01  1.13753561e+02 -7.83697453e-02
+ -1.10266175e-01  0.00000000e+00]","[-2.92615665e+03  5.25874373e+01  1.07348121e+02 -7.69176257e-02
+ -1.13955397e-01 -3.35110860e-03]",11.296257796413675,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00149.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00149_kp.png,False
+"[-2.70214246e+03 -4.48342276e+01  9.18840274e+01 -7.73648965e-02
+ -1.22947156e-01  0.00000000e+00]","[-2.63448800e+03  1.13671513e+01  4.10536841e+01 -1.04422799e-01
+ -1.63176189e-01 -6.71647673e-02]",101.58466704955403,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00150.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00150_kp.png,False
+"[-2.70214246e+03 -4.48342276e+01  9.18840274e+01 -7.73648965e-02
+ -1.22947156e-01  0.00000000e+00]","[-2.63448800e+03  1.13671513e+01  4.10536841e+01 -1.04422799e-01
+ -1.63176189e-01 -6.71647673e-02]",101.58466704955403,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00151.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00151_kp.png,False
+"[-2.97469080e+03  9.74405067e+01  1.21049770e+02 -8.01179953e-02
+ -8.92763188e-02  0.00000000e+00]","[-2.94027084e+03  8.92938675e+01  1.18530579e+02 -7.64070431e-02
+ -8.93850538e-02  1.20731314e-04]",35.460511160596816,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00152.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00152_kp.png,False
+"[-2.97469080e+03  9.74405067e+01  1.21049770e+02 -8.01179953e-02
+ -8.92763188e-02  0.00000000e+00]","[-2.94027084e+03  8.92938675e+01  1.18530579e+02 -7.64070431e-02
+ -8.93850538e-02  1.20731314e-04]",35.460511160596816,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00153.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00153_kp.png,False
+"[-2.19405777e+03 -4.22918591e+01  6.86580548e+01 -8.05891649e-02
+ -8.99348755e-02  0.00000000e+00]","[-2.24048980e+03 -3.26451670e+01  7.40548287e+01 -8.10578456e-02
+ -9.49759404e-02 -6.65575704e-02]",47.72962843516515,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00154.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00154_kp.png,False
+"[-2.19405777e+03 -4.22918591e+01  6.86580548e+01 -8.05891649e-02
+ -8.99348755e-02  0.00000000e+00]","[-2.24048980e+03 -3.26451670e+01  7.40548287e+01 -8.10578456e-02
+ -9.49759404e-02 -6.65575704e-02]",47.72962843516515,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00155.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00155_kp.png,False
+"[-2.94353778e+03  5.14701652e+01  1.19367238e+02  2.67263616e-02
+ -3.77012325e-02  0.00000000e+00]","[-2.92937113e+03  5.00105480e+01  1.18524727e+02  2.75771869e-02
+ -3.75683625e-02 -2.48598473e-03]",14.26654146999448,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00156.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00156_kp.png,False
+"[-2.94353778e+03  5.14701652e+01  1.19367238e+02  2.67263616e-02
+ -3.77012325e-02  0.00000000e+00]","[-2.92937113e+03  5.00105480e+01  1.18524727e+02  2.75771869e-02
+ -3.75683625e-02 -2.48598473e-03]",14.26654146999448,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00157.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00157_kp.png,False
+"[-2.18546841e+03 -1.99658977e+01  6.40309666e+01 -2.28930138e-02
+ -2.16732836e-02  0.00000000e+00]","[-2.33663598e+03  3.24776912e+01  2.70053471e+01 -1.31289476e-02
+ -6.46868977e-02 -6.67577256e-01]",164.23417237296522,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00158.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00158_kp.png,False
+"[-2.18546841e+03 -1.99658977e+01  6.40309666e+01 -2.28930138e-02
+ -2.16732836e-02  0.00000000e+00]","[-2.33663598e+03  3.24776912e+01  2.70053471e+01 -1.31289476e-02
+ -6.46868977e-02 -6.67577256e-01]",164.23417237296522,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00159.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00159_kp.png,False
+"[-2.96273978e+03 -1.96520006e+01  1.17021351e+02  1.14412919e-01
+ -1.16137403e-01  0.00000000e+00]","[-2.95070243e+03 -2.28984877e+01  5.84391930e+01  1.12510917e-01
+ -1.51957283e-01  1.88858620e-02]",59.894129582674644,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00160.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00160_kp.png,False
+"[-2.96273978e+03 -1.96520006e+01  1.17021351e+02  1.14412919e-01
+ -1.16137403e-01  0.00000000e+00]","[-2.95070243e+03 -2.28984877e+01  5.84391930e+01  1.12510917e-01
+ -1.51957283e-01  1.88858620e-02]",59.894129582674644,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00161.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00161_kp.png,False
+"[-2.18672917e+03 -1.36582526e+01  6.40553788e+01 -1.19481704e-01
+ -4.11720799e-02  0.00000000e+00]","[-2.26402628e+03  2.45974299e+01  7.27099961e+00 -5.59726944e-02
+ -1.56909170e-01 -7.33702882e-01]",103.2608664637958,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00162.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00162_kp.png,False
+"[-2.18672917e+03 -1.36582526e+01  6.40553788e+01 -1.19481704e-01
+ -4.11720799e-02  0.00000000e+00]","[-2.26402628e+03  2.45974299e+01  7.27099961e+00 -5.59726944e-02
+ -1.56909170e-01 -7.33702882e-01]",103.2608664637958,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00163.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00163_kp.png,False
+"[-2.98516593e+03 -8.10361617e+01  1.17522412e+02  1.65557348e-01
+  3.87680075e-02  0.00000000e+00]","[-2.97749100e+03 -7.92626086e+01  1.16615739e+02  1.64885713e-01
+  3.88510833e-02 -3.75842354e-03]",7.929188971193457,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00164.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00164_kp.png,False
+"[-2.98516593e+03 -8.10361617e+01  1.17522412e+02  1.65557348e-01
+  3.87680075e-02  0.00000000e+00]","[-2.97749100e+03 -7.92626086e+01  1.16615739e+02  1.64885713e-01
+  3.88510833e-02 -3.75842354e-03]",7.929188971193457,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00165.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00165_kp.png,False
+"[-2.97994639e+03  5.88438396e+01  1.26650574e+02 -4.20258160e-02
+ -3.21761656e-02  0.00000000e+00]","[-2.97038847e+03  5.38523704e+01  1.28441514e+02 -4.01766316e-02
+ -3.05680616e-02  8.92558273e-03]",10.930510527236676,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00166.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00166_kp.png,False
+"[-2.97994639e+03  5.88438396e+01  1.26650574e+02 -4.20258160e-02
+ -3.21761656e-02  0.00000000e+00]","[-2.97038847e+03  5.38523704e+01  1.28441514e+02 -4.01766316e-02
+ -3.05680616e-02  8.92558273e-03]",10.930510527236676,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00167.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00167_kp.png,False
+"[-2.91361669e+03 -9.19616057e+01  1.05919398e+02  1.30545648e-02
+ -7.50257503e-02  0.00000000e+00]","[-2.87573962e+03 -8.79914012e+01  1.00154068e+02  1.03726387e-02
+ -7.65684908e-02  1.15224098e-02]",38.518485941813644,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00168.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00168_kp.png,False
+"[-2.91361669e+03 -9.19616057e+01  1.05919398e+02  1.30545648e-02
+ -7.50257503e-02  0.00000000e+00]","[-2.87573962e+03 -8.79914012e+01  1.00154068e+02  1.03726387e-02
+ -7.65684908e-02  1.15224098e-02]",38.518485941813644,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00169.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00169_kp.png,False
+"[-2.69980436e+03  6.24999115e+01  9.36975464e+01 -1.25220906e-02
+ -1.15233004e-01  0.00000000e+00]","[-2.69609595e+03  4.79880179e+01  7.19196079e+01 -3.44470466e-03
+ -1.30223189e-01  3.35844523e-03]",26.43153421215969,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00170.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00170_kp.png,False
+"[-2.69980436e+03  6.24999115e+01  9.36975464e+01 -1.25220906e-02
+ -1.15233004e-01  0.00000000e+00]","[-2.69609595e+03  4.79880179e+01  7.19196079e+01 -3.44470466e-03
+ -1.30223189e-01  3.35844523e-03]",26.43153421215969,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00171.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00171_kp.png,False
+"[-2.99119853e+03  8.20345510e+00  1.20763857e+02 -4.05859715e-02
+ -1.14239538e-01  0.00000000e+00]","[-3.05481922e+03  2.71584013e+00  7.36965846e+01 -3.84360739e-02
+ -1.42354144e-01  4.92114647e-03]",79.32864792869259,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00172.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00172_kp.png,False
+"[-2.99119853e+03  8.20345510e+00  1.20763857e+02 -4.05859715e-02
+ -1.14239538e-01  0.00000000e+00]","[-3.05481922e+03  2.71584013e+00  7.36965846e+01 -3.84360739e-02
+ -1.42354144e-01  4.92114647e-03]",79.32864792869259,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00173.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00173_kp.png,False
+"[-2.71388442e+03  2.75706989e+01  1.05160751e+02 -1.12926717e-02
+ -1.04156950e-01  0.00000000e+00]","[-2.70855081e+03  2.41657285e+01  9.38973883e+01 -9.79555986e-03
+ -1.11674801e-01  4.00173877e-03]",12.91915505406135,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00174.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00174_kp.png,False
+"[-2.71388442e+03  2.75706989e+01  1.05160751e+02 -1.12926717e-02
+ -1.04156950e-01  0.00000000e+00]","[-2.70855081e+03  2.41657285e+01  9.38973883e+01 -9.79555986e-03
+ -1.11674801e-01  4.00173877e-03]",12.91915505406135,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00175.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00175_kp.png,False
+"[-2.79791001e+03  6.43222384e+01  1.09626596e+02  8.53495777e-02
+ -1.07146342e-01  0.00000000e+00]","[-2.77447396e+03  4.97790875e+01  8.62863511e+01  9.26397402e-02
+ -1.22528898e-01  7.85144724e-03]",36.131961920990086,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00176.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00176_kp.png,False
+"[-2.79791001e+03  6.43222384e+01  1.09626596e+02  8.53495777e-02
+ -1.07146342e-01  0.00000000e+00]","[-2.77447396e+03  4.97790875e+01  8.62863511e+01  9.26397402e-02
+ -1.22528898e-01  7.85144724e-03]",36.131961920990086,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00177.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00177_kp.png,False
+"[-2.75883400e+03  4.21063954e+01  1.04620918e+02 -1.21557105e-01
+ -1.08364983e-01  0.00000000e+00]","[-2.74885638e+03  3.58768153e+01  8.70917380e+01 -1.17074572e-01
+ -1.19992178e-01 -3.16192372e-03]",21.110017013015426,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00178.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00178_kp.png,False
+"[-2.75883400e+03  4.21063954e+01  1.04620918e+02 -1.21557105e-01
+ -1.08364983e-01  0.00000000e+00]","[-2.74885638e+03  3.58768153e+01  8.70917380e+01 -1.17074572e-01
+ -1.19992178e-01 -3.16192372e-03]",21.110017013015426,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00179.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00179_kp.png,False
+"[-2.15570418e+03 -1.99156974e+01  5.73234714e+01 -8.34884842e-02
+ -8.15000878e-02  0.00000000e+00]","[-2.31748154e+03  3.08503157e+01  6.51991097e+00 -1.17108421e-02
+ -1.63993164e-01 -7.55296914e-01]",177.00311791807988,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00180.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00180_kp.png,False
+"[-2.15570418e+03 -1.99156974e+01  5.73234714e+01 -8.34884842e-02
+ -8.15000878e-02  0.00000000e+00]","[-2.31748154e+03  3.08503157e+01  6.51991097e+00 -1.17108421e-02
+ -1.63993164e-01 -7.55296914e-01]",177.00311791807988,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00181.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00181_kp.png,False
+"[-2.83991518e+03  4.46075603e+01  1.10695360e+02 -3.61082242e-02
+ -5.58917036e-02  0.00000000e+00]","[-2.84336126e+03  4.22944206e+01  1.12311717e+02 -3.43665843e-02
+ -5.52146495e-02 -1.75280836e-03]",4.454069012594768,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00182.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00182_kp.png,False
+"[-2.83991518e+03  4.46075603e+01  1.10695360e+02 -3.61082242e-02
+ -5.58917036e-02  0.00000000e+00]","[-2.84336126e+03  4.22944206e+01  1.12311717e+02 -3.43665843e-02
+ -5.52146495e-02 -1.75280836e-03]",4.454069012594768,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00183.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00183_kp.png,False
+"[-2.94654962e+03  8.04467923e+01  1.25318876e+02  6.53150076e-02
+ -5.19662969e-02  0.00000000e+00]","[-2.91773871e+03  7.24350774e+01  1.22444551e+02  6.90800329e-02
+ -5.30185560e-02  3.44548314e-03]",30.041931863467283,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00184.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00184_kp.png,False
+"[-2.94654962e+03  8.04467923e+01  1.25318876e+02  6.53150076e-02
+ -5.19662969e-02  0.00000000e+00]","[-2.91773871e+03  7.24350774e+01  1.22444551e+02  6.90800329e-02
+ -5.30185560e-02  3.44548314e-03]",30.041931863467283,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00185.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00185_kp.png,False
+"[-2.65219807e+03  3.94784461e+01  9.38983995e+01 -1.01854049e-01
+ -1.08127251e-01  0.00000000e+00]","[-2.61253910e+03  2.88482024e+01  8.70940625e+01 -9.62600119e-02
+ -1.10707087e-01  8.01839233e-03]",41.618923985702885,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00186.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00186_kp.png,False
+"[-2.65219807e+03  3.94784461e+01  9.38983995e+01 -1.01854049e-01
+ -1.08127251e-01  0.00000000e+00]","[-2.61253910e+03  2.88482024e+01  8.70940625e+01 -9.62600119e-02
+ -1.10707087e-01  8.01839233e-03]",41.618923985702885,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00187.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00187_kp.png,False
+"[-2.94611524e+03 -3.05721660e+01  1.14469529e+02 -1.54438994e-01
+ -3.73902879e-02  0.00000000e+00]","[-2.91025427e+03 -3.02208322e+01  1.11341618e+02 -1.54199687e-01
+ -3.82228120e-02 -1.26970420e-03]",35.99883319110997,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00188.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00188_kp.png,False
+"[-2.94611524e+03 -3.05721660e+01  1.14469529e+02 -1.54438994e-01
+ -3.73902879e-02  0.00000000e+00]","[-2.91025427e+03 -3.02208322e+01  1.11341618e+02 -1.54199687e-01
+ -3.82228120e-02 -1.26970420e-03]",35.99883319110997,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00189.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00189_kp.png,False
+"[-2.84112311e+03  7.39673606e+01  9.93552974e+01 -1.03752372e-01
+ -8.74989813e-02  0.00000000e+00]","[-2.80562396e+03  6.62713306e+01  9.69981498e+01 -9.96204035e-02
+ -8.77983676e-02 -1.60663602e-03]",36.40019814084902,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00190.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00190_kp.png,False
+"[-2.84112311e+03  7.39673606e+01  9.93552974e+01 -1.03752372e-01
+ -8.74989813e-02  0.00000000e+00]","[-2.80562396e+03  6.62713306e+01  9.69981498e+01 -9.96204035e-02
+ -8.77983676e-02 -1.60663602e-03]",36.40019814084902,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00191.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00191_kp.png,False
+"[-2.22487939e+03  2.41866220e+01  5.82441335e+01  9.99911756e-02
+ -8.90966044e-02  0.00000000e+00]","[-2.17718351e+03  1.37939229e+01  5.71249695e+01  1.05007678e-01
+ -9.19080344e-02  3.38306938e-02]",48.82784027541185,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00192.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00192_kp.png,False
+"[-2.22487939e+03  2.41866220e+01  5.82441335e+01  9.99911756e-02
+ -8.90966044e-02  0.00000000e+00]","[-2.17718351e+03  1.37939229e+01  5.71249695e+01  1.05007678e-01
+ -9.19080344e-02  3.38306938e-02]",48.82784027541185,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00193.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00193_kp.png,False
+"[-2.94399705e+03 -9.39687346e+01  1.13948931e+02  9.64913045e-02
+ -8.02046307e-02  0.00000000e+00]","[-2.90707010e+03 -9.09731859e+01  1.09831827e+02  9.59214541e-02
+ -8.13368450e-02  2.51423938e-04]",37.276318010297466,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00194.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00194_kp.png,False
+"[-2.94399705e+03 -9.39687346e+01  1.13948931e+02  9.64913045e-02
+ -8.02046307e-02  0.00000000e+00]","[-2.90707010e+03 -9.09731859e+01  1.09831827e+02  9.59214541e-02
+ -8.13368450e-02  2.51423938e-04]",37.276318010297466,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00195.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00195_kp.png,False
+"[-2.47605379e+03 -5.92632164e+01  8.02640583e+01  1.77181314e-02
+ -1.12583183e-01  0.00000000e+00]","[-2.47683525e+03 -4.67151107e+01  6.14937767e+01  7.10204366e-03
+ -1.27511937e-01  2.41023171e-03]",22.59179284272449,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00196.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00196_kp.png,False
+"[-2.47605379e+03 -5.92632164e+01  8.02640583e+01  1.77181314e-02
+ -1.12583183e-01  0.00000000e+00]","[-2.47683525e+03 -4.67151107e+01  6.14937767e+01  7.10204366e-03
+ -1.27511937e-01  2.41023171e-03]",22.59179284272449,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00197.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00197_kp.png,False
+"[-2.93643917e+03  6.18837537e+01  1.15989723e+02 -1.00415191e-01
+ -5.08185552e-02  0.00000000e+00]","[-2.92381075e+03  6.07378638e+01  1.15862099e+02 -9.92425593e-02
+ -5.08509362e-02 -6.76844220e-03]",12.680944354044913,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00198.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00198_kp.png,False
+"[-2.93643917e+03  6.18837537e+01  1.15989723e+02 -1.00415191e-01
+ -5.08185552e-02  0.00000000e+00]","[-2.92381075e+03  6.07378638e+01  1.15862099e+02 -9.92425593e-02
+ -5.08509362e-02 -6.76844220e-03]",12.680944354044913,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00199.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00199_kp.png,False
+"[-2.92448431e+03 -8.22922955e+00  1.15863248e+02 -1.60135637e-02
+  1.66042119e-02  0.00000000e+00]","[-2.90632773e+03 -1.17367950e+01  1.11925610e+02 -1.38451846e-02
+  1.49374978e-02  3.15383291e-03]",18.906858665827418,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00200.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00200_kp.png,False
+"[-2.92448431e+03 -8.22922955e+00  1.15863248e+02 -1.60135637e-02
+  1.66042119e-02  0.00000000e+00]","[-2.90632773e+03 -1.17367950e+01  1.11925610e+02 -1.38451846e-02
+  1.49374978e-02  3.15383291e-03]",18.906858665827418,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00201.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00201_kp.png,False
+"[-2.97025317e+03 -2.34085855e+01  1.16489716e+02  6.94462045e-02
+ -4.09510392e-02  0.00000000e+00]","[-2.94837552e+03 -2.26506683e+01  1.14050943e+02  6.97226518e-02
+ -4.12240181e-02 -6.66169795e-03]",22.02620121550601,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00202.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00202_kp.png,False
+"[-2.97025317e+03 -2.34085855e+01  1.16489716e+02  6.94462045e-02
+ -4.09510392e-02  0.00000000e+00]","[-2.94837552e+03 -2.26506683e+01  1.14050943e+02  6.97226518e-02
+ -4.12240181e-02 -6.66169795e-03]",22.02620121550601,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00203.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00203_kp.png,False
+"[-2.13811294e+03  2.38722107e+01  6.91894423e+01 -5.17111367e-03
+ -5.00484166e-03  0.00000000e+00]","[-2.09150080e+03  1.54055093e+01  6.45466249e+01 -6.17118021e-05
+ -7.59758688e-03  2.94124988e-02]",47.60180661825062,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00204.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00204_kp.png,False
+"[-2.13811294e+03  2.38722107e+01  6.91894423e+01 -5.17111367e-03
+ -5.00484166e-03  0.00000000e+00]","[-2.09150080e+03  1.54055093e+01  6.45466249e+01 -6.17118021e-05
+ -7.59758688e-03  2.94124988e-02]",47.60180661825062,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00205.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00205_kp.png,False
+"[-2.99198726e+03 -5.54288619e+01  1.16455655e+02 -2.47064107e-02
+  4.23453447e-02  0.00000000e+00]","[-2.97543510e+03 -5.70204329e+01  1.16338028e+02 -2.34269008e-02
+  4.31664716e-02  3.38665584e-03]",16.628919324833692,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00206.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00206_kp.png,False
+"[-2.99198726e+03 -5.54288619e+01  1.16455655e+02 -2.47064107e-02
+  4.23453447e-02  0.00000000e+00]","[-2.97543510e+03 -5.70204329e+01  1.16338028e+02 -2.34269008e-02
+  4.31664716e-02  3.38665584e-03]",16.628919324833692,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00207.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00207_kp.png,False
+"[-2.99830881e+03 -4.56132752e+00  1.21944556e+02 -1.03899820e-01
+ -3.33593688e-02  0.00000000e+00]","[-2.99097236e+03 -7.47644546e+00  1.21705278e+02 -1.01642974e-01
+ -3.38579133e-02 -5.76389752e-03]",7.898016100827945,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00208.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00208_kp.png,False
+"[-2.99830881e+03 -4.56132752e+00  1.21944556e+02 -1.03899820e-01
+ -3.33593688e-02  0.00000000e+00]","[-2.99097236e+03 -7.47644546e+00  1.21705278e+02 -1.01642974e-01
+ -3.38579133e-02 -5.76389752e-03]",7.898016100827945,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00209.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00209_kp.png,False
+"[-2.97036940e+03 -9.22443088e+01  1.23539525e+02  2.11494105e-02
+ -9.02031021e-02  0.00000000e+00]","[-2.94378863e+03 -9.32929848e+01  1.24518278e+02  2.24156126e-02
+ -8.81586600e-02  2.18593642e-03]",26.61944879412441,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00210.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00210_kp.png,False
+"[-2.97036940e+03 -9.22443088e+01  1.23539525e+02  2.11494105e-02
+ -9.02031021e-02  0.00000000e+00]","[-2.94378863e+03 -9.32929848e+01  1.24518278e+02  2.24156126e-02
+ -8.81586600e-02  2.18593642e-03]",26.61944879412441,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00211.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00211_kp.png,False
+"[-2.73003472e+03 -1.25393797e+01  1.03488616e+02 -7.32764868e-02
+ -1.12089933e-01  0.00000000e+00]","[-2.69878647e+03 -2.24544059e+01  6.20506729e+01 -7.05868101e-02
+ -1.37217549e-01  2.45374622e-02]",52.83809553978394,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00212.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00212_kp.png,False
+"[-2.73003472e+03 -1.25393797e+01  1.03488616e+02 -7.32764868e-02
+ -1.12089933e-01  0.00000000e+00]","[-2.69878647e+03 -2.24544059e+01  6.20506729e+01 -7.05868101e-02
+ -1.37217549e-01  2.45374622e-02]",52.83809553978394,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00213.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00213_kp.png,False
+"[-2.82404966e+03 -8.90392783e+01  1.06892893e+02 -1.59101976e-01
+ -3.59884121e-02  0.00000000e+00]","[-2.97564427e+03 -8.16232084e+01  1.31951321e+02 -1.67915760e-01
+ -2.81629858e-02 -5.00035922e-03]",153.83058017168182,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00214.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00214_kp.png,False
+"[-2.82404966e+03 -8.90392783e+01  1.06892893e+02 -1.59101976e-01
+ -3.59884121e-02  0.00000000e+00]","[-2.97564427e+03 -8.16232084e+01  1.31951321e+02 -1.67915760e-01
+ -2.81629858e-02 -5.00035922e-03]",153.83058017168182,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00215.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00215_kp.png,False
+"[-2.96414166e+03 -1.54829410e+01  1.11859174e+02  2.93141002e-02
+ -9.15798091e-02  0.00000000e+00]","[-2.92882692e+03 -1.48224955e+01  1.08297987e+02  3.03366979e-02
+ -9.22811428e-02 -8.90274931e-03]",35.49998624494776,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00216.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00216_kp.png,False
+"[-2.96414166e+03 -1.54829410e+01  1.11859174e+02  2.93141002e-02
+ -9.15798091e-02  0.00000000e+00]","[-2.92882692e+03 -1.48224955e+01  1.08297987e+02  3.03366979e-02
+ -9.22811428e-02 -8.90274931e-03]",35.49998624494776,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00217.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00217_kp.png,False
+"[-2.30071471e+03  1.35922047e+01  7.28929406e+01 -1.36400931e-01
+ -3.45087124e-02  0.00000000e+00]","[-2.25122042e+03  4.85127290e+00  6.94427147e+01 -1.30127106e-01
+ -3.25382835e-02  1.90367764e-02]",50.378490814802774,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00218.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00218_kp.png,False
+"[-2.30071471e+03  1.35922047e+01  7.28929406e+01 -1.36400931e-01
+ -3.45087124e-02  0.00000000e+00]","[-2.25122042e+03  4.85127290e+00  6.94427147e+01 -1.30127106e-01
+ -3.25382835e-02  1.90367764e-02]",50.378490814802774,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00219.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00219_kp.png,False
+"[-2.13795392e+03  2.51598382e+01  6.50255065e+01  8.45354479e-02
+ -1.05135127e-01  0.00000000e+00]","[-2.04644362e+03  5.17294244e+01  2.25321243e+00  1.14717895e-01
+ -9.04641625e-02 -5.22280845e-01]",114.10713384139758,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00220.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00220_kp.png,False
+"[-2.13795392e+03  2.51598382e+01  6.50255065e+01  8.45354479e-02
+ -1.05135127e-01  0.00000000e+00]","[-2.04644362e+03  5.17294244e+01  2.25321243e+00  1.14717895e-01
+ -9.04641625e-02 -5.22280845e-01]",114.10713384139758,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00221.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00221_kp.png,False
+"[-2.28663599e+03 -5.23839768e+01  6.52642235e+01 -5.02491886e-02
+ -1.09402809e-01  0.00000000e+00]","[-2.21142745e+03 -6.60603706e+01  5.03120691e+01 -2.86350654e-02
+ -1.22327665e-01 -2.10942336e-02]",77.89053222327028,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00222.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00222_kp.png,False
+"[-2.28663599e+03 -5.23839768e+01  6.52642235e+01 -5.02491886e-02
+ -1.09402809e-01  0.00000000e+00]","[-2.21142745e+03 -6.60603706e+01  5.03120691e+01 -2.86350654e-02
+ -1.22327665e-01 -2.10942336e-02]",77.89053222327028,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00223.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00223_kp.png,False
+"[-2.52012865e+03  1.96675187e+01  8.74205892e+01 -1.13322246e-01
+ -1.17344360e-01  0.00000000e+00]","[-2.38312541e+03  6.51827298e+01  8.04914804e+01 -3.25768135e-02
+ -1.33189170e-01 -6.32368573e-01]",144.53212689774588,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00224.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00224_kp.png,False
+"[-2.52012865e+03  1.96675187e+01  8.74205892e+01 -1.13322246e-01
+ -1.17344360e-01  0.00000000e+00]","[-2.38312541e+03  6.51827298e+01  8.04914804e+01 -3.25768135e-02
+ -1.33189170e-01 -6.32368573e-01]",144.53212689774588,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00225.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00225_kp.png,False
+"[-2.97725073e+03  3.52137289e+01  1.24011670e+02  1.09917632e-01
+  3.05471380e-02  0.00000000e+00]","[-2.96413905e+03  3.03768740e+01  1.23514015e+02  1.12514278e-01
+  2.97787426e-02  7.42419767e-03]",13.98424688218311,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00226.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00226_kp.png,False
+"[-2.97725073e+03  3.52137289e+01  1.24011670e+02  1.09917632e-01
+  3.05471380e-02  0.00000000e+00]","[-2.96413905e+03  3.03768740e+01  1.23514015e+02  1.12514278e-01
+  2.97787426e-02  7.42419767e-03]",13.98424688218311,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00227.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00227_kp.png,False
+"[-2.92276440e+03  9.37336449e+01  1.23943861e+02 -2.61204371e-02
+  1.67322270e-02  0.00000000e+00]","[-2.89462042e+03  8.41813770e+01  1.21165917e+02 -2.14641851e-02
+  1.58932239e-02  6.89995316e-03]",29.85040034005226,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00228.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00228_kp.png,False
+"[-2.92276440e+03  9.37336449e+01  1.23943861e+02 -2.61204371e-02
+  1.67322270e-02  0.00000000e+00]","[-2.89462042e+03  8.41813770e+01  1.21165917e+02 -2.14641851e-02
+  1.58932239e-02  6.89995316e-03]",29.85040034005226,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00229.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00229_kp.png,False
+"[-2.39945067e+03  5.56143396e+01  7.84627440e+01 -1.24345526e-02
+ -1.16112470e-01  0.00000000e+00]","[-2.46013052e+03  1.98947271e+01  3.82383565e+01  1.67041490e-02
+ -1.52524088e-01  9.77302140e-03]",81.09214563379304,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00230.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00230_kp.png,False
+"[-2.39945067e+03  5.56143396e+01  7.84627440e+01 -1.24345526e-02
+ -1.16112470e-01  0.00000000e+00]","[-2.46013052e+03  1.98947271e+01  3.82383565e+01  1.67041490e-02
+ -1.52524088e-01  9.77302140e-03]",81.09214563379304,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00231.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00231_kp.png,False
+"[-2.19042439e+03 -2.97056212e+01  6.08463426e+01 -1.07863154e-01
+ -1.10665479e-01  0.00000000e+00]","[-2.24915858e+03 -1.58329654e+01  4.19084326e+01 -1.13382121e-01
+ -1.41377722e-01 -6.36192380e-02]",63.251868934237464,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00232.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00232_kp.png,False
+"[-2.19042439e+03 -2.97056212e+01  6.08463426e+01 -1.07863154e-01
+ -1.10665479e-01  0.00000000e+00]","[-2.24915858e+03 -1.58329654e+01  4.19084326e+01 -1.13382121e-01
+ -1.41377722e-01 -6.36192380e-02]",63.251868934237464,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00233.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00233_kp.png,False
+"[-2.34474421e+03 -5.74115212e+01  7.17316268e+01  1.35388575e-01
+ -1.06842246e-01  0.00000000e+00]","[-2.10400129e+03 -2.50887977e+01  4.13631625e+01  1.15894549e-01
+ -1.21660639e-01 -3.88067184e-02]",244.79411251645143,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00234.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00234_kp.png,False
+"[-2.34474421e+03 -5.74115212e+01  7.17316268e+01  1.35388575e-01
+ -1.06842246e-01  0.00000000e+00]","[-2.10400129e+03 -2.50887977e+01  4.13631625e+01  1.15894549e-01
+ -1.21660639e-01 -3.88067184e-02]",244.79411251645143,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00235.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00235_kp.png,False
+"[-2.46536426e+03 -6.60389263e+01  8.05918000e+01  1.02424510e-01
+ -1.14550720e-01  0.00000000e+00]","[-2.50393544e+03 -4.50438363e+01  5.21598180e+01  8.38066855e-02
+ -1.39061828e-01  1.63883888e-03]",52.3154584102407,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00236.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00236_kp.png,False
+"[-2.46536426e+03 -6.60389263e+01  8.05918000e+01  1.02424510e-01
+ -1.14550720e-01  0.00000000e+00]","[-2.50393544e+03 -4.50438363e+01  5.21598180e+01  8.38066855e-02
+ -1.39061828e-01  1.63883888e-03]",52.3154584102407,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00237.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00237_kp.png,False
+"[-2.69227203e+03 -4.65277401e+01  9.06153407e+01 -4.81345406e-02
+ -1.19591879e-01  0.00000000e+00]","[-2.68220819e+03 -3.76546651e+01  5.74238661e+01 -5.54561489e-02
+ -1.41524303e-01  7.58999872e-03]",35.80064534434878,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00238.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00238_kp.png,False
+"[-2.69227203e+03 -4.65277401e+01  9.06153407e+01 -4.81345406e-02
+ -1.19591879e-01  0.00000000e+00]","[-2.68220819e+03 -3.76546651e+01  5.74238661e+01 -5.54561489e-02
+ -1.41524303e-01  7.58999872e-03]",35.80064534434878,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00239.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00239_kp.png,False
+"[-2.45971404e+03 -3.65872545e+01  8.43185677e+01 -1.42881594e-01
+ -1.08046261e-01  0.00000000e+00]","[-2.50393846e+03 -2.67397449e+01  6.00801937e+01 -1.48483663e-01
+ -1.32510976e-01 -1.68748392e-02]",51.38357523834121,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00240.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00240_kp.png,False
+"[-2.45971404e+03 -3.65872545e+01  8.43185677e+01 -1.42881594e-01
+ -1.08046261e-01  0.00000000e+00]","[-2.50393846e+03 -2.67397449e+01  6.00801937e+01 -1.48483663e-01
+ -1.32510976e-01 -1.68748392e-02]",51.38357523834121,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00241.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00241_kp.png,False
+"[-2.98823159e+03 -3.93021104e+00  1.19197796e+02  3.19327957e-02
+  3.00316094e-02  0.00000000e+00]","[-2.97539205e+03 -7.32484276e+00  1.17722497e+02  3.35858663e-02
+  2.94608643e-02  8.77620389e-03]",13.362404637051245,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00242.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00242_kp.png,False
+"[-2.98823159e+03 -3.93021104e+00  1.19197796e+02  3.19327957e-02
+  3.00316094e-02  0.00000000e+00]","[-2.97539205e+03 -7.32484276e+00  1.17722497e+02  3.35858663e-02
+  2.94608643e-02  8.77620389e-03]",13.362404637051245,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00243.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00243_kp.png,False
+"[-2.56358007e+03 -3.02075333e+01  8.87292290e+01  9.57830251e-02
+ -1.16521593e-01  0.00000000e+00]","[-2.53116013e+03 -3.07283805e+01  3.87780830e+01  9.74264181e-02
+ -1.53320110e-01 -4.85186303e-03]",59.55200347847439,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00244.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00244_kp.png,False
+"[-2.56358007e+03 -3.02075333e+01  8.87292290e+01  9.57830251e-02
+ -1.16521593e-01  0.00000000e+00]","[-2.53116013e+03 -3.07283805e+01  3.87780830e+01  9.74264181e-02
+ -1.53320110e-01 -4.85186303e-03]",59.55200347847439,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00245.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00245_kp.png,False
+"[-2.91671261e+03  5.72334524e+01  1.20925145e+02  1.02049156e-01
+ -1.11797238e-01  0.00000000e+00]","[-3.00493098e+03  2.62964056e+01  6.05276578e+01  1.19335410e-01
+ -1.50794659e-01  7.21798341e-03]",111.29886669382445,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00246.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00246_kp.png,False
+"[-2.91671261e+03  5.72334524e+01  1.20925145e+02  1.02049156e-01
+ -1.11797238e-01  0.00000000e+00]","[-3.00493098e+03  2.62964056e+01  6.05276578e+01  1.19335410e-01
+ -1.50794659e-01  7.21798341e-03]",111.29886669382445,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00247.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00247_kp.png,False
+"[-2.19134355e+03 -2.95648755e+01  7.24074587e+01 -1.06873983e-01
+ -5.60968979e-02  0.00000000e+00]","[-2.24559636e+03 -1.28484408e+01  7.39319326e+01 -1.00539090e-01
+ -7.82577406e-02 -1.71935930e-01]",56.79023407689716,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00248.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00248_kp.png,False
+"[-2.19134355e+03 -2.95648755e+01  7.24074587e+01 -1.06873983e-01
+ -5.60968979e-02  0.00000000e+00]","[-2.24559636e+03 -1.28484408e+01  7.39319326e+01 -1.00539090e-01
+ -7.82577406e-02 -1.71935930e-01]",56.79023407689716,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00249.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00249_kp.png,False
+"[-2.18702897e+03  2.22546320e+01  7.22156360e+01 -6.40158407e-03
+ -2.36605788e-02  0.00000000e+00]","[-2.14178576e+03  1.35510599e+01  6.82011997e+01 -9.89561225e-04
+ -2.52797203e-02  2.78524443e-02]",46.24733519158377,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00250.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00250_kp.png,False
+"[-2.18702897e+03  2.22546320e+01  7.22156360e+01 -6.40158407e-03
+ -2.36605788e-02  0.00000000e+00]","[-2.14178576e+03  1.35510599e+01  6.82011997e+01 -9.89561225e-04
+ -2.52797203e-02  2.78524443e-02]",46.24733519158377,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00251.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00251_kp.png,False
+"[-2.91233979e+03 -3.04178019e+01  1.21254901e+02  1.19185101e-01
+ -1.13276361e-01  0.00000000e+00]","[-2.87656715e+03  8.93282506e+00  4.98100558e+01  1.02239329e-01
+ -1.50990101e-01 -4.08052936e-02]",89.06469375423298,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00252.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00252_kp.png,False
+"[-2.91233979e+03 -3.04178019e+01  1.21254901e+02  1.19185101e-01
+ -1.13276361e-01  0.00000000e+00]","[-2.87656715e+03  8.93282506e+00  4.98100558e+01  1.02239329e-01
+ -1.50990101e-01 -4.08052936e-02]",89.06469375423298,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00253.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00253_kp.png,False
+"[-2.54652678e+03 -5.85784723e+01  9.51923972e+01 -2.39021328e-02
+ -1.01659168e-01  0.00000000e+00]","[-2.51061993e+03 -4.98439221e+01  8.35825606e+01 -2.72055605e-02
+ -1.09700059e-01 -1.34940373e-02]",38.73476915893175,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00254.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00254_kp.png,False
+"[-2.54652678e+03 -5.85784723e+01  9.51923972e+01 -2.39021328e-02
+ -1.01659168e-01  0.00000000e+00]","[-2.51061993e+03 -4.98439221e+01  8.35825606e+01 -2.72055605e-02
+ -1.09700059e-01 -1.34940373e-02]",38.73476915893175,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00255.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00255_kp.png,False
+"[-2.65984305e+03 -3.47636314e+01  9.81872643e+01  7.28654464e-02
+ -5.90146028e-03  0.00000000e+00]","[-2.61840984e+03 -3.79430845e+01  9.37779287e+01  7.60128232e-02
+ -7.16933735e-03 -1.09343708e-03]",41.78830189870898,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00256.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00256_kp.png,False
+"[-2.65984305e+03 -3.47636314e+01  9.81872643e+01  7.28654464e-02
+ -5.90146028e-03  0.00000000e+00]","[-2.61840984e+03 -3.79430845e+01  9.37779287e+01  7.60128232e-02
+ -7.16933735e-03 -1.09343708e-03]",41.78830189870898,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00257.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00257_kp.png,False
+"[-2.82520009e+03  1.74819183e+01  1.09719752e+02  1.56080584e-01
+ -1.06731187e-01  0.00000000e+00]","[-2.83956869e+03  1.39264475e+01  1.00859386e+02  1.55427550e-01
+ -1.15727050e-01  1.65865728e-02]",17.25121350783358,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00258.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00258_kp.png,False
+"[-2.82520009e+03  1.74819183e+01  1.09719752e+02  1.56080584e-01
+ -1.06731187e-01  0.00000000e+00]","[-2.83956869e+03  1.39264475e+01  1.00859386e+02  1.55427550e-01
+ -1.15727050e-01  1.65865728e-02]",17.25121350783358,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00259.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00259_kp.png,False
+"[-2.40626500e+03  3.70373983e+01  7.97722197e+01 -3.55673095e-03
+ -1.06911985e-01  0.00000000e+00]","[-2.35465993e+03  3.85996039e+01  5.37472780e+01 -7.14823363e-03
+ -1.27337923e-01 -4.21558687e-05]",57.81713806598092,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00260.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00260_kp.png,False
+"[-2.40626500e+03  3.70373983e+01  7.97722197e+01 -3.55673095e-03
+ -1.06911985e-01  0.00000000e+00]","[-2.35465993e+03  3.85996039e+01  5.37472780e+01 -7.14823363e-03
+ -1.27337923e-01 -4.21558687e-05]",57.81713806598092,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00261.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00261_kp.png,False
+"[-2.90451574e+03  2.30266921e+01  1.06680214e+02 -5.62362717e-02
+ -1.18279390e-01  0.00000000e+00]","[-2.90002269e+03  7.84167030e+00  7.28469438e+01 -4.97368293e-02
+ -1.37857603e-01  1.48600762e-02]",37.35589093251163,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00262.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00262_kp.png,False
+"[-2.90451574e+03  2.30266921e+01  1.06680214e+02 -5.62362717e-02
+ -1.18279390e-01  0.00000000e+00]","[-2.90002269e+03  7.84167030e+00  7.28469438e+01 -4.97368293e-02
+ -1.37857603e-01  1.48600762e-02]",37.35589093251163,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00263.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00263_kp.png,False
+"[-2.99945581e+03  5.65818003e+01  1.23309063e+02 -1.63758959e-01
+ -1.11536068e-01  0.00000000e+00]","[-2.96514191e+03  2.74934949e+01  8.18739814e+01 -1.51399446e-01
+ -1.31394724e-01  2.23834373e-02]",61.159131172027195,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00264.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00264_kp.png,False
+"[-2.99945581e+03  5.65818003e+01  1.23309063e+02 -1.63758959e-01
+ -1.11536068e-01  0.00000000e+00]","[-2.96514191e+03  2.74934949e+01  8.18739814e+01 -1.51399446e-01
+ -1.31394724e-01  2.23834373e-02]",61.159131172027195,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00265.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00265_kp.png,False
+"[-2.77424013e+03  4.78717989e+00  9.51743358e+01 -3.01911269e-02
+ -1.19157263e-01  0.00000000e+00]","[-2.81220761e+03  2.30420681e+00  7.03470802e+01 -2.81799442e-02
+ -1.36629045e-01 -2.42590468e-03]",45.43222953537575,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00266.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00266_kp.png,False
+"[-2.77424013e+03  4.78717989e+00  9.51743358e+01 -3.01911269e-02
+ -1.19157263e-01  0.00000000e+00]","[-2.81220761e+03  2.30420681e+00  7.03470802e+01 -2.81799442e-02
+ -1.36629045e-01 -2.42590468e-03]",45.43222953537575,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00267.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00267_kp.png,False
+"[-2.80287036e+03 -5.88547814e+01  1.01035842e+02 -1.35201116e-01
+  4.10586717e-02  0.00000000e+00]","[-2.76251106e+03 -5.94772392e+01  9.82866588e+01 -1.33944028e-01
+  4.21492623e-02  7.93160583e-03]",40.45762299662623,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00268.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00268_kp.png,False
+"[-2.80287036e+03 -5.88547814e+01  1.01035842e+02 -1.35201116e-01
+  4.10586717e-02  0.00000000e+00]","[-2.76251106e+03 -5.94772392e+01  9.82866588e+01 -1.33944028e-01
+  4.21492623e-02  7.93160583e-03]",40.45762299662623,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00269.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00269_kp.png,False
+"[-2.58331345e+03 -2.14833104e+01  9.98750747e+01  3.27181742e-02
+ -1.07036387e-01  0.00000000e+00]","[-2.54075607e+03  4.31110766e+00  5.38762364e+01  2.06940124e-02
+ -1.39149128e-01 -4.19301939e-02]",67.76706800317773,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00270.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00270_kp.png,False
+"[-2.58331345e+03 -2.14833104e+01  9.98750747e+01  3.27181742e-02
+ -1.07036387e-01  0.00000000e+00]","[-2.54075607e+03  4.31110766e+00  5.38762364e+01  2.06940124e-02
+ -1.39149128e-01 -4.19301939e-02]",67.76706800317773,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00271.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00271_kp.png,False
+"[-2.92784354e+03  3.45025396e+01  1.21795666e+02  3.23822185e-03
+ -1.13456180e-01  0.00000000e+00]","[-3.03266501e+03  1.82744136e+01  5.45446680e+01  1.25680013e-02
+ -1.54889933e-01  1.60406591e-03]",125.59294728098158,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00272.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00272_kp.png,False
+"[-2.92784354e+03  3.45025396e+01  1.21795666e+02  3.23822185e-03
+ -1.13456180e-01  0.00000000e+00]","[-3.03266501e+03  1.82744136e+01  5.45446680e+01  1.25680013e-02
+ -1.54889933e-01  1.60406591e-03]",125.59294728098158,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00273.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_00273_kp.png,False
+"[-2.99577865e+03  3.68197947e+01  1.24340870e+02  6.92032904e-02
+ -1.26627789e-01  0.00000000e+00]","[-4.50733197e+03  7.78191348e+02  5.86030711e+02 -1.04603924e-01
+  4.70442784e-02 -3.35640551e-01]",1745.7327200567634,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00000.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00000_kp.png,True
+"[-2.99577865e+03  3.68197947e+01  1.24340870e+02  6.92032904e-02
+ -1.26627789e-01  0.00000000e+00]","[-4.50733197e+03  7.78191348e+02  5.86030711e+02 -1.04603924e-01
+  4.70442784e-02 -3.35640551e-01]",1745.7327200567634,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00001.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00001_kp.png,True
+"[-2.66457414e+03  6.67650711e+01  9.81363179e+01  6.41624534e-02
+ -1.28470267e-01  0.00000000e+00]","[-2.12199592e-314 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2667.2164653227837,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00002.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00002_kp.png,True
+"[-2.66457414e+03  6.67650711e+01  9.81363179e+01  6.41624534e-02
+ -1.28470267e-01  0.00000000e+00]","[-4.94065646e-324 -6.94372119e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2667.2164653227837,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00003.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00003_kp.png,True
+"[-2.78774756e+03 -1.09795143e+01  1.01689812e+02 -2.64941605e-02
+ -1.44863691e-01  0.00000000e+00]","[-4.18103267e+03 -7.60394305e+01  4.49332793e+02 -5.27426839e-02
+ -8.60191649e-03  2.83395168e-01]",1437.4741104174732,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00004.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00004_kp.png,True
+"[-2.78774756e+03 -1.09795143e+01  1.01689812e+02 -2.64941605e-02
+ -1.44863691e-01  0.00000000e+00]","[-4.18103267e+03 -7.60394305e+01  4.49332793e+02 -5.27426839e-02
+ -8.60191649e-03  2.83395168e-01]",1437.4741104174732,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00005.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00005_kp.png,True
+"[-2.12915291e+03  4.29292177e+01  5.32499838e+01 -1.17972456e-01
+ -1.07611700e-01  0.00000000e+00]",[ 0.          0.          0.          1.57079633 -1.57079633 -0.        ],2130.2513002474734,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00006.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00006_kp.png,True
+"[-2.12915291e+03  4.29292177e+01  5.32499838e+01 -1.17972456e-01
+ -1.07611700e-01  0.00000000e+00]","[-4.07423216e-310 -2.12199587e-314  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2130.2513002474734,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00007.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00007_kp.png,True
+"[-2.70784850e+03 -4.17283206e+01  9.54590168e+01  8.54410632e-02
+ -1.41035841e-01  0.00000000e+00]","[-4.94065646e-324 -6.94393538e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2709.8518761888263,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00008.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00008_kp.png,True
+"[-2.70784850e+03 -4.17283206e+01  9.54590168e+01  8.54410632e-02
+ -1.41035841e-01  0.00000000e+00]","[-3.56429107e-315 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2709.8518761888263,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00009.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00009_kp.png,True
+"[-2.93818950e+03  7.70546323e+01  1.16348534e+02 -5.14855848e-02
+ -1.53385522e-01  0.00000000e+00]","[-4.98564920e+03  3.08559679e+01  1.64480538e+02 -6.81735111e-02
+ -1.33125796e-01  1.67594793e-01]",2048.5463685706754,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00010.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00010_kp.png,True
+"[-2.93818950e+03  7.70546323e+01  1.16348534e+02 -5.14855848e-02
+ -1.53385522e-01  0.00000000e+00]","[-4.98564920e+03  3.08559679e+01  1.64480538e+02 -6.81735111e-02
+ -1.33125796e-01  1.67594793e-01]",2048.5463685706754,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00011.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00011_kp.png,True
+"[-2.79905074e+03 -8.05171479e+01  1.13060684e+02  1.03218212e-01
+ -1.29464169e-01  0.00000000e+00]","[-1.19290183e+000 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2801.2986647045745,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00013.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00013_kp.png,True
+"[-2.92236454e+03 -5.72825517e+01  1.23490251e+02  8.28443222e-02
+ -1.30210495e-01  0.00000000e+00]","[-3.56429107e-315 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2925.5333921360157,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00014.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00014_kp.png,True
+"[-2.40134516e+03  3.11267188e+00  7.31704530e+01  5.28416506e-02
+ -1.22476533e-01  0.00000000e+00]","[-2.70388207e+01 -4.98107353e+01 -1.11572840e+02  2.94040115e+00
+  6.89772394e-03  2.42862899e+00]",2382.0708596664135,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00016.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00016_kp.png,True
+"[-2.40134516e+03  3.11267188e+00  7.31704530e+01  5.28416506e-02
+ -1.22476533e-01  0.00000000e+00]","[-2.70388207e+01 -4.98107353e+01 -1.11572840e+02  2.94040115e+00
+  6.89772394e-03  2.42862899e+00]",2382.0708596664135,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00017.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00017_kp.png,True
+"[-2.86443702e+03  2.78395744e+01  1.11530611e+02 -1.32005768e-01
+ -1.42349407e-01  0.00000000e+00]","[-5.77696225e+03  5.49123972e+02  1.02192774e+03 -2.61325474e-01
+  5.71273481e-02  8.45963274e-02]",3095.7008220909715,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00018.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00018_kp.png,True
+"[-2.86443702e+03  2.78395744e+01  1.11530611e+02 -1.32005768e-01
+ -1.42349407e-01  0.00000000e+00]","[-5.77696225e+03  5.49123972e+02  1.02192774e+03 -2.61325474e-01
+  5.71273481e-02  8.45963274e-02]",3095.7008220909715,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00019.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00019_kp.png,True
+"[-2.73202390e+03  5.68499386e+01  1.00126176e+02 -1.41563813e-01
+ -1.30568570e-01  0.00000000e+00]","[-4.14379391e-315 -3.69491040e-316  4.12728709e-315  1.57079633e+000
+ -8.92859186e-002 -4.68723489e-310]",2734.4490756504842,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00021.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00021_kp.png,True
+"[-2.81116166e+03  9.18349333e+00  1.16178011e+02 -4.35971761e-02
+ -1.20555302e-01  0.00000000e+00]","[-1.25986740e-321 -1.01184644e-320 -3.56429107e-315  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2813.57629376028,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00023.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00023_kp.png,True
+"[-2.95444297e+03 -5.63794556e+01  1.20073356e+02 -2.47291653e-02
+ -1.40591538e-01  0.00000000e+00]",[ 0.15402086 -0.39619387 -1.79543808  1.94156806 -1.33832193  0.37077173],2957.6391764811574,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00024.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00024_kp.png,True
+"[-2.95444297e+03 -5.63794556e+01  1.20073356e+02 -2.47291653e-02
+ -1.40591538e-01  0.00000000e+00]","[-4.94065646e-324 -6.94382838e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2957.4194000998555,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00025.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00025_kp.png,True
+"[-2.89337211e+03 -8.62851274e+01  1.02557251e+02  2.22274729e-02
+ -1.41454437e-01  0.00000000e+00]","[-4.94065646e-324 -5.05923221e-321 -4.06163383e-315  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2896.4746270393816,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00026.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00026_kp.png,True
+"[-2.89337211e+03 -8.62851274e+01  1.02557251e+02  2.22274729e-02
+ -1.41454437e-01  0.00000000e+00]","[-2.23804370e-315 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2896.4746270393816,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00027.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00027_kp.png,True
+"[-2.91091764e+03  6.66968771e+01  1.21799747e+02  1.42105077e-01
+ -1.44091995e-01  0.00000000e+00]","[-4.87553509e+03  2.54666808e+02  4.62014720e+02  7.90243439e-02
+ -6.42090416e-02  8.16990186e-02]",2002.698336417142,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00028.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00028_kp.png,True
+"[-2.91091764e+03  6.66968771e+01  1.21799747e+02  1.42105077e-01
+ -1.44091995e-01  0.00000000e+00]","[-4.87553509e+03  2.54666808e+02  4.62014720e+02  7.90243439e-02
+ -6.42090416e-02  8.16990186e-02]",2002.698336417142,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00029.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00029_kp.png,True
+"[-2.98019436e+03 -4.33986011e+01  1.24931169e+02 -1.42617858e-01
+ -1.36569631e-01  0.00000000e+00]","[-4.11724301e+49 -4.02124269e+50 -6.03570417e+50  1.22165945e+00
+ -8.07489782e-01  1.76182261e+00]",7.264271096112037e+50,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00030.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00030_kp.png,True
+"[-2.98019436e+03 -4.33986011e+01  1.24931169e+02 -1.42617858e-01
+ -1.36569631e-01  0.00000000e+00]","[-4.11724301e+49 -4.02124269e+50 -6.03570417e+50  1.22165945e+00
+ -8.07489782e-01  1.76182261e+00]",7.264271096112037e+50,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00031.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00031_kp.png,True
+"[-2.84084613e+03 -5.19355929e+01  9.97110669e+01 -8.10942972e-02
+ -1.45856928e-01  0.00000000e+00]","[-4.94065646e-324 -5.05923221e-321 -6.51877115e-309  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2843.069877407628,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00032.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00032_kp.png,True
+"[-2.84084613e+03 -5.19355929e+01  9.97110669e+01 -8.10942972e-02
+ -1.45856928e-01  0.00000000e+00]","[-6.94418722e-310 -6.94382838e-310 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2843.069877407628,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00033.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00033_kp.png,True
+"[-2.67357393e+03  5.60610415e+01  9.11392997e+01  7.17039325e-02
+ -1.29941095e-01  0.00000000e+00]","[ 0.00000000e+000  0.00000000e+000 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2675.7142549811406,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00034.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00034_kp.png,True
+"[-2.67357393e+03  5.60610415e+01  9.11392997e+01  7.17039325e-02
+ -1.29941095e-01  0.00000000e+00]","[-6.94418722e-310 -6.94394556e-310 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2675.7142549811406,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00035.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00035_kp.png,True
+"[-2.77325118e+03 -7.50299740e+00  1.11065668e+02 -7.65645365e-02
+ -1.15190329e-01  0.00000000e+00]","[ 7.22524061e+63  2.39055872e+64 -1.92086099e+63 -1.66334506e+00
+ -5.82221263e-02 -2.13141116e+00]",2.5047373258994204e+64,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00036.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00036_kp.png,True
+"[-2.77325118e+03 -7.50299740e+00  1.11065668e+02 -7.65645365e-02
+ -1.15190329e-01  0.00000000e+00]","[ 7.22524061e+63  2.39055872e+64 -1.92086099e+63 -1.66334506e+00
+ -5.82221263e-02 -2.13141116e+00]",2.5047373258994204e+64,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00037.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00037_kp.png,True
+"[-2.79075409e+03 -7.47249116e+01  1.12412311e+02  6.35375321e-02
+ -1.32319105e-01  0.00000000e+00]","[-4.94065646e-324 -6.94394556e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2794.01659823787,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00039.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00039_kp.png,True
+"[-2.22269725e+03  2.88297273e+01  6.61571437e+01 -9.35392967e-02
+ -1.15715286e-01  0.00000000e+00]","[ 2.57314638e+02 -1.79602173e+02 -1.55873207e+02  2.93985824e+00
+  5.79765015e-02  2.34854180e+00]",2498.639686022977,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00040.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00040_kp.png,True
+"[-2.22269725e+03  2.88297273e+01  6.61571437e+01 -9.35392967e-02
+ -1.15715286e-01  0.00000000e+00]","[ 2.57314638e+02 -1.79602173e+02 -1.55873207e+02  2.93985824e+00
+  5.79765015e-02  2.34854180e+00]",2498.639686022977,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00041.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00041_kp.png,True
+"[-2.68155999e+03 -5.50137946e+01  1.06168290e+02 -3.60967347e-02
+ -1.27789935e-01  0.00000000e+00]","[-2.26360973e+000 -1.04343736e-309 -4.03575515e-310  1.57079633e+000
+ -1.44730383e-001 -4.86947136e-310]",2681.963330032503,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00042.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00042_kp.png,True
+"[-2.68155999e+03 -5.50137946e+01  1.06168290e+02 -3.60967347e-02
+ -1.27789935e-01  0.00000000e+00]","[-4.94065646e-324 -6.94372119e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2684.2246907193344,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00043.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00043_kp.png,True
+"[-2.85764466e+03 -8.65905919e+01  1.02385105e+02 -1.73393056e-02
+ -1.36474231e-01  0.00000000e+00]","[-3.56429107e-315 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2860.788986384427,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00044.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00044_kp.png,True
+"[-2.85764466e+03 -8.65905919e+01  1.02385105e+02 -1.73393056e-02
+ -1.36474231e-01  0.00000000e+00]","[-4.84378402e-317  3.56193169e-318 -2.12199592e-314  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2860.788986384427,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00045.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00045_kp.png,True
+"[-2.90831818e+03 -9.08792045e+01  1.22623201e+02  1.61835659e-01
+ -1.24674775e-01  0.00000000e+00]","[-6.94418722e-310  0.00000000e+000 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2912.320403378837,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00046.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00046_kp.png,True
+"[-2.90831818e+03 -9.08792045e+01  1.22623201e+02  1.61835659e-01
+ -1.24674775e-01  0.00000000e+00]","[ 0.00000000e+000  0.00000000e+000 -4.07423216e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2912.320403378837,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00047.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00047_kp.png,True
+"[-2.97406069e+03 -2.90023694e+01  1.10382888e+02  4.88248043e-02
+ -1.50913176e-01  0.00000000e+00]","[-4.21881160e+03 -8.56836129e+01  2.20652297e+02  3.71512735e-02
+ -1.13355288e-01  1.73494687e-01]",1250.910443238478,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00048.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00048_kp.png,True
+"[-2.97406069e+03 -2.90023694e+01  1.10382888e+02  4.88248043e-02
+ -1.50913176e-01  0.00000000e+00]","[-4.21881160e+03 -8.56836129e+01  2.20652297e+02  3.71512735e-02
+ -1.13355288e-01  1.73494687e-01]",1250.910443238478,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00049.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00049_kp.png,True
+"[-2.55108761e+03 -6.20233534e+01  8.89579316e+01 -1.23608105e-01
+ -1.32834967e-01  0.00000000e+00]","[-1.26480805e-321 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2553.3915521309546,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00050.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00050_kp.png,True
+"[-2.55108761e+03 -6.20233534e+01  8.89579316e+01 -1.23608105e-01
+ -1.32834967e-01  0.00000000e+00]","[-4.94065646e-324 -6.94394472e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2553.3915521309546,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00051.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00051_kp.png,True
+"[-2.75386477e+03  2.67611706e+01  1.09783464e+02  1.04176733e-01
+ -1.31330145e-01  0.00000000e+00]","[-6.94418722e-310  0.00000000e+000 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2756.1820959127563,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00052.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00052_kp.png,True
+"[-2.75386477e+03  2.67611706e+01  1.09783464e+02  1.04176733e-01
+ -1.31330145e-01  0.00000000e+00]","[-1.90227800e-001 -2.52961611e-321 -5.42422986e-001  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2756.0136884841563,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00053.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00053_kp.png,True
+"[-2.11748177e+03 -1.43570776e+01  5.57056250e+01 -7.77950040e-02
+ -3.27111121e-02  0.00000000e+00]",[-0.38011318  0.         -0.32577471  1.57079633 -1.57079633 -0.        ],2117.8916516027884,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00054.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00054_kp.png,True
+"[-2.11748177e+03 -1.43570776e+01  5.57056250e+01 -7.77950040e-02
+ -3.27111121e-02  0.00000000e+00]","[ 4.52828542e-310  5.26463370e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2118.2630308350494,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00055.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00055_kp.png,True
+"[-2.52208153e+03  2.65134649e+01  9.60651340e+01  3.92087349e-02
+ -1.16026746e-01  0.00000000e+00]","[-5.19188262e+03  5.95407956e+03  4.72301405e+03 -8.98221783e-01
+  4.17402311e-01 -9.93089878e-02]",7979.507121302725,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00056.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00056_kp.png,True
+"[-2.52208153e+03  2.65134649e+01  9.60651340e+01  3.92087349e-02
+ -1.16026746e-01  0.00000000e+00]","[-5.19188262e+03  5.95407956e+03  4.72301405e+03 -8.98221783e-01
+  4.17402311e-01 -9.93089878e-02]",7979.507121302725,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00057.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00057_kp.png,True
+"[-2.92439901e+03  9.46455622e+01  1.09841824e+02  1.19891617e-02
+ -1.48754410e-01  0.00000000e+00]","[-3.87384409e+03 -2.50000912e+02  4.30785217e+02 -5.14108408e-02
+  4.50744807e-02  1.12248531e+00]",1059.8263169688678,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00058.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00058_kp.png,True
+"[-2.92439901e+03  9.46455622e+01  1.09841824e+02  1.19891617e-02
+ -1.48754410e-01  0.00000000e+00]","[-3.87384409e+03 -2.50000912e+02  4.30785217e+02 -5.14108408e-02
+  4.50744807e-02  1.12248531e+00]",1059.8263169688678,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00059.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00059_kp.png,True
+"[-2.81974576e+03  8.27853758e+01  1.03554323e+02  7.89247914e-04
+ -1.32228840e-01  0.00000000e+00]","[ 2.04066658e+34 -5.53641675e+33  7.43484438e+33 -2.90104851e-01
+ -5.35332886e-01  4.56885003e-01]",2.2413407373543143e+34,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00060.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00060_kp.png,True
+"[-2.81974576e+03  8.27853758e+01  1.03554323e+02  7.89247914e-04
+ -1.32228840e-01  0.00000000e+00]","[ 2.04066658e+34 -5.53641675e+33  7.43484438e+33 -2.90104851e-01
+ -5.35332886e-01  4.56885003e-01]",2.2413407373543143e+34,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00061.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00061_kp.png,True
+"[-2.95591836e+03  1.05033502e+01  1.08158047e+02  1.19857005e-01
+ -1.53005292e-01  0.00000000e+00]","[-5.45296049e+03 -1.47122940e+02  2.86294489e+02  1.41485514e-01
+ -1.24845565e-01  8.61034202e-02]",2508.345678467163,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00062.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00062_kp.png,True
+"[-2.95591836e+03  1.05033502e+01  1.08158047e+02  1.19857005e-01
+ -1.53005292e-01  0.00000000e+00]","[-5.45296049e+03 -1.47122940e+02  2.86294489e+02  1.41485514e-01
+ -1.24845565e-01  8.61034202e-02]",2508.345678467163,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00063.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00063_kp.png,True
+"[-2.11588992e+03  1.65830623e+01  4.96362476e+01  2.93350448e-02
+ -4.77365906e-02  0.00000000e+00]","[-4.94065646e-324 -6.94394556e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2116.537011151593,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00065.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00065_kp.png,True
+"[-2.60124942e+03  2.27659953e+01  1.00672133e+02  1.34395493e-01
+ -1.17168295e-01  0.00000000e+00]","[ 1.42105221e+03 -5.74394268e+02  2.95213194e+02  2.79292875e+00
+ -7.71859868e-02  1.31734646e+00]",4071.0388069319974,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00066.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00066_kp.png,True
+"[-2.60124942e+03  2.27659953e+01  1.00672133e+02  1.34395493e-01
+ -1.17168295e-01  0.00000000e+00]","[ 1.42105221e+03 -5.74394268e+02  2.95213194e+02  2.79292875e+00
+ -7.71859868e-02  1.31734646e+00]",4071.0388069319974,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00067.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00067_kp.png,True
+"[-2.22173048e+03  4.89008077e+01  7.30609028e+01  5.07951093e-02
+ -9.77090728e-02  0.00000000e+00]","[-1.26480805e-321 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2223.469250359001,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00068.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00068_kp.png,True
+"[-2.22173048e+03  4.89008077e+01  7.30609028e+01  5.07951093e-02
+ -9.77090728e-02  0.00000000e+00]","[-1.25986740e-321 -1.21421573e-317 -1.26480805e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2223.469250359001,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00069.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00069_kp.png,True
+"[-2.07204651e+03  2.20193617e+00  4.84929440e+01  5.19618068e-02
+ -9.30348162e-02  0.00000000e+00]","[-6.94418722e-310 -2.95863443e-310  6.28185850e-310  1.57079633e+000
+ -4.40163885e-001 -6.14186092e-310]",2072.6150541265256,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00070.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00070_kp.png,True
+"[-2.97126138e+03 -2.50705579e+01  1.13482605e+02  1.42087837e-01
+ -1.30220969e-01  0.00000000e+00]","[-6.94418722e-310 -6.94394556e-310  1.84424856e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2973.463608404503,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00072.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00072_kp.png,True
+"[-2.64263178e+03 -5.73798205e+01  8.61251688e+01  1.21268729e-01
+ -1.24969061e-01  0.00000000e+00]","[-2.71615461e-312 -6.79038653e-312 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2644.65738587454,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00075.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00075_kp.png,True
+"[-2.81132509e+03  6.01989655e+01  1.03739588e+02  1.45580124e-01
+ -1.45261549e-01  0.00000000e+00]","[-7.61670031e+03  7.99067188e+02  3.52649591e+03 -8.69838252e-02
+  2.62123820e-01  6.23300251e-01]",5945.823588347097,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00076.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00076_kp.png,True
+"[-2.81132509e+03  6.01989655e+01  1.03739588e+02  1.45580124e-01
+ -1.45261549e-01  0.00000000e+00]","[-7.61670031e+03  7.99067188e+02  3.52649591e+03 -8.69838252e-02
+  2.62123820e-01  6.23300251e-01]",5945.823588347097,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00077.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00077_kp.png,True
+"[-2.99638887e+03 -8.09644764e+01  1.26037797e+02  1.05591569e-02
+ -1.23001870e-01  0.00000000e+00]","[-6.33374228e-310  7.50492004e-310 -4.94065646e-324  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",3000.1311658254135,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00078.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00078_kp.png,True
+"[-2.99638887e+03 -8.09644764e+01  1.26037797e+02  1.05591569e-02
+ -1.23001870e-01  0.00000000e+00]","[-6.94418722e-310  0.00000000e+000 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",3000.1311658254135,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00079.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00079_kp.png,True
+"[-2.80714891e+03  1.44816456e+00  1.00011055e+02  6.27519536e-03
+ -1.28730260e-01  0.00000000e+00]",[ 0.          0.          0.          1.57079633 -1.57079633 -0.        ],2808.930279582163,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00081.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00081_kp.png,True
+"[-2.96660143e+03  9.29195900e+01  1.26390402e+02  1.22686959e-01
+ -1.32433421e-01  0.00000000e+00]","[-9.61127226e+10  2.01715496e+09  6.78586091e+09  2.93097398e+00
+  1.06029831e-01  3.08768288e+00]",96373085976.30313,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00082.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00082_kp.png,True
+"[-2.96660143e+03  9.29195900e+01  1.26390402e+02  1.22686959e-01
+ -1.32433421e-01  0.00000000e+00]","[-9.61127226e+10  2.01715496e+09  6.78586091e+09  2.93097398e+00
+  1.06029831e-01  3.08768288e+00]",96373085976.30313,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00083.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00083_kp.png,True
+"[-2.06892326e+03  3.72396377e+00  5.60172386e+01  1.05575764e-01
+ -8.09924305e-02  0.00000000e+00]","[-4.94065646e-324 -1.25986740e-321 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2069.6848193804844,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00085.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00085_kp.png,True
+"[-2.78227485e+03 -4.17392355e+01  9.47927229e+01 -6.14627784e-02
+ -1.45382825e-01  0.00000000e+00]","[-4.54120459e+03  1.23807933e+02  2.81445121e+02 -5.18843666e-02
+ -1.07303322e-01 -3.39710526e-01]",1776.5356212118074,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00086.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00086_kp.png,True
+"[-2.78227485e+03 -4.17392355e+01  9.47927229e+01 -6.14627784e-02
+ -1.45382825e-01  0.00000000e+00]","[-4.54120459e+03  1.23807933e+02  2.81445121e+02 -5.18843666e-02
+ -1.07303322e-01 -3.39710526e-01]",1776.5356212118074,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00087.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00087_kp.png,True
+"[-2.92605312e+03  6.82266963e+01  1.19449365e+02  6.81776729e-02
+ -1.44508646e-01  0.00000000e+00]","[-4.36239606e+03  2.68658342e+02  8.64147268e+01  6.27324712e-02
+ -1.06257696e-01 -3.79783657e-01]",1450.6361246386305,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00088.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00088_kp.png,True
+"[-2.92605312e+03  6.82266963e+01  1.19449365e+02  6.81776729e-02
+ -1.44508646e-01  0.00000000e+00]","[-4.36239606e+03  2.68658342e+02  8.64147268e+01  6.27324712e-02
+ -1.06257696e-01 -3.79783657e-01]",1450.6361246386305,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00089.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00089_kp.png,True
+"[-2.90304007e+03  9.01530101e+01  1.17743714e+02  4.04881741e-02
+ -1.40012450e-01  0.00000000e+00]","[-2.79041162e+03  1.15225736e+01  3.00584421e+01  1.25580395e-01
+ -1.15304458e-01 -4.11241115e-01]",162.9620148840604,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00090.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00090_kp.png,True
+"[-2.90304007e+03  9.01530101e+01  1.17743714e+02  4.04881741e-02
+ -1.40012450e-01  0.00000000e+00]","[-2.79041162e+03  1.15225736e+01  3.00584421e+01  1.25580395e-01
+ -1.15304458e-01 -4.11241115e-01]",162.9620148840604,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00091.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00091_kp.png,True
+"[-2.97798193e+03  2.52965512e+00  1.21978165e+02  6.54573980e-02
+ -1.51299722e-01  0.00000000e+00]","[-5.05091460e+03  4.78017065e+01  2.47470972e+02  5.01208994e-02
+ -1.20264725e-01  1.87310618e-02]",2077.2211782326567,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00092.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00092_kp.png,True
+"[-2.97798193e+03  2.52965512e+00  1.21978165e+02  6.54573980e-02
+ -1.51299722e-01  0.00000000e+00]","[-5.05091460e+03  4.78017065e+01  2.47470972e+02  5.01208994e-02
+ -1.20264725e-01  1.87310618e-02]",2077.2211782326567,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00093.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00093_kp.png,True
+"[-2.49344855e+03  4.64539067e+01  8.86969293e+01  4.80877780e-02
+ -1.21606633e-01  0.00000000e+00]","[-3.80392085e+03  5.24890587e+02 -2.24796032e+00 -8.18822258e-02
+ -1.52969013e-01 -2.77753580e-01]",1398.0380125168917,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00094.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00094_kp.png,True
+"[-2.49344855e+03  4.64539067e+01  8.86969293e+01  4.80877780e-02
+ -1.21606633e-01  0.00000000e+00]","[-3.80392085e+03  5.24890587e+02 -2.24796032e+00 -8.18822258e-02
+ -1.52969013e-01 -2.77753580e-01]",1398.0380125168917,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00095.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00095_kp.png,True
+"[-2.00561420e+03 -3.12729657e+01  4.37733305e+01  1.13001844e-01
+ -2.47933386e-02  0.00000000e+00]","[-4.94065646e-324 -6.94382838e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2006.335573329921,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00096.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00096_kp.png,True
+"[-2.00561420e+03 -3.12729657e+01  4.37733305e+01  1.13001844e-01
+ -2.47933386e-02  0.00000000e+00]","[-1.86201492e-315 -4.46953306e-315 -1.42077610e-315 -1.36164017e+000
+ -1.22835542e+000 -2.93243650e+000]",2006.335573329921,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00097.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00097_kp.png,True
+"[-2.94183136e+03 -5.84326351e+01  1.06655768e+02  1.11442891e-01
+ -1.26602736e-01  0.00000000e+00]","[-1.22407689e-311  1.79734185e-311 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2944.3439928967,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00098.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00098_kp.png,True
+"[-2.94183136e+03 -5.84326351e+01  1.06655768e+02  1.11442891e-01
+ -1.26602736e-01  0.00000000e+00]","[-1.26480805e-321 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2944.3439928967,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00099.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00099_kp.png,True
+"[-2.91455538e+03 -4.10086871e+01  1.10735149e+02  1.04727511e-01
+ -1.46798383e-01  0.00000000e+00]","[-3.28805114e+03 -3.84421732e+02  4.35482781e+00 -5.18542703e-03
+  5.93610784e-02  2.34862580e+00]",518.4094668201387,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00102.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00102_kp.png,True
+"[-2.91455538e+03 -4.10086871e+01  1.10735149e+02  1.04727511e-01
+ -1.46798383e-01  0.00000000e+00]","[-3.28805114e+03 -3.84421732e+02  4.35482781e+00 -5.18542703e-03
+  5.93610784e-02  2.34862580e+00]",518.4094668201387,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00103.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00103_kp.png,True
+"[-2.91919709e+03  2.08787029e+01  1.15717473e+02 -2.01021078e-02
+ -1.42407992e-01  0.00000000e+00]","[ 5.74159224e+02  1.04505137e+02 -2.39338326e+02  3.01836058e+00
+ -1.44712017e-01  1.43313672e+00]",3512.3491240386775,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00104.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00104_kp.png,True
+"[-2.91919709e+03  2.08787029e+01  1.15717473e+02 -2.01021078e-02
+ -1.42407992e-01  0.00000000e+00]","[ 5.74159224e+02  1.04505137e+02 -2.39338326e+02  3.01836058e+00
+ -1.44712017e-01  1.43313672e+00]",3512.3491240386775,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00105.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00105_kp.png,True
+"[-2.87156537e+03  8.92896420e+01  1.11148826e+02  1.57137931e-01
+ -1.45844965e-01  0.00000000e+00]","[-4.34533890e+03  3.02193973e+02  2.43341202e+02  1.04433313e-01
+ -8.10446620e-02 -9.62558415e-02]",1494.9285853109338,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00106.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00106_kp.png,True
+"[-2.87156537e+03  8.92896420e+01  1.11148826e+02  1.57137931e-01
+ -1.45844965e-01  0.00000000e+00]","[-4.34533890e+03  3.02193973e+02  2.43341202e+02  1.04433313e-01
+ -8.10446620e-02 -9.62558415e-02]",1494.9285853109338,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00107.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00107_kp.png,True
+"[-2.16414503e+03  3.44763411e+01  6.75282067e+01  2.20445266e-03
+ -1.01506061e-01  0.00000000e+00]","[-1.25986740e-321 -1.97626258e-323 -1.26480805e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2165.4727888803263,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00108.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00108_kp.png,True
+"[-2.16414503e+03  3.44763411e+01  6.75282067e+01  2.20445266e-03
+ -1.01506061e-01  0.00000000e+00]","[-4.94065646e-324 -6.94394556e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2165.4727888803263,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00109.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00109_kp.png,True
+"[-2.58077821e+03 -2.72504005e+01  9.35836247e+01  1.33320153e-01
+ -1.29477238e-01  0.00000000e+00]","[-1.59341022e+000 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2581.025901782719,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00110.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00110_kp.png,True
+"[-2.58077821e+03 -2.72504005e+01  9.35836247e+01  1.33320153e-01
+ -1.29477238e-01  0.00000000e+00]","[-1.08646184e-311 -1.69759663e-312  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2582.6181760926447,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00111.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00111_kp.png,True
+"[-2.85281488e+03  6.68626919e+01  1.03896038e+02 -7.86221742e-03
+ -1.30299040e-01  0.00000000e+00]","[-1.26480805e-321 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2855.4890603066683,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00112.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00112_kp.png,True
+"[-2.85281488e+03  6.68626919e+01  1.03896038e+02 -7.86221742e-03
+ -1.30299040e-01  0.00000000e+00]","[ 0.00000000e+000 -3.50822972e-315 -5.43230922e-311  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2855.4890603066683,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00113.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00113_kp.png,True
+"[-2.99262039e+03  9.10449178e+01  1.26390754e+02 -3.02992353e-02
+ -1.24863697e-01  0.00000000e+00]","[-3.56429107e-315 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2996.671591681591,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00114.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00114_kp.png,True
+"[-2.99262039e+03  9.10449178e+01  1.26390754e+02 -3.02992353e-02
+ -1.24863697e-01  0.00000000e+00]","[ 0.00000000e+000 -1.25986740e-321  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2996.671591681591,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00115.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00115_kp.png,True
+"[-2.97725530e+03  9.03051712e+01  1.12267841e+02  3.54403757e-02
+ -1.22513477e-01  0.00000000e+00]","[-4.27871716e-001 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2980.3121693256344,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00116.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00116_kp.png,True
+"[-2.97725530e+03  9.03051712e+01  1.12267841e+02  3.54403757e-02
+ -1.22513477e-01  0.00000000e+00]","[-4.94065646e-324 -6.94394185e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2980.7395408229495,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00117.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00117_kp.png,True
+"[-2.93544814e+03 -6.08336200e+01  1.10969889e+02 -1.02097417e-01
+ -1.46520116e-01  0.00000000e+00]","[ 5.98184981e+03  4.02673032e+03  2.83785651e+03 -2.48691640e+00
+  4.96637344e-01 -3.03038019e+00]",10181.468084364195,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00118.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00118_kp.png,True
+"[-2.93544814e+03 -6.08336200e+01  1.10969889e+02 -1.02097417e-01
+ -1.46520116e-01  0.00000000e+00]","[ 5.98184981e+03  4.02673032e+03  2.83785651e+03 -2.48691640e+00
+  4.96637344e-01 -3.03038019e+00]",10181.468084364195,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00119.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00119_kp.png,True
+"[-2.42673724e+03 -1.28732699e+01  8.57426346e+01 -7.17618062e-02
+ -1.16562928e-01  0.00000000e+00]","[ 1.70534864e-310  2.69363470e-310  6.16910481e-310  2.70143730e+000
+ -6.39576337e-002  4.73003326e-001]",2428.285642728627,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00122.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00122_kp.png,True
+"[-2.42673724e+03 -1.28732699e+01  8.57426346e+01 -7.17618062e-02
+ -1.16562928e-01  0.00000000e+00]",[-1.36932051  1.31814889 -1.0956154   1.57079633 -1.57079633 -0.        ],2426.9635005732944,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00123.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00123_kp.png,True
+"[-2.77057221e+03 -7.97146491e+01  1.13686191e+02  4.80896413e-02
+ -1.23698945e-01  0.00000000e+00]","[-6.94418722e-310 -6.94394556e-310 -1.73741055e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2774.1210109710087,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00124.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00124_kp.png,True
+"[-2.77057221e+03 -7.97146491e+01  1.13686191e+02  4.80896413e-02
+ -1.23698945e-01  0.00000000e+00]","[-4.06163383e-315 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2774.049265197104,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00125.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00125_kp.png,True
+"[-2.04526924e+03 -1.88671009e+01  6.31005327e+01 -3.11158458e-03
+  6.26098250e-05  0.00000000e+00]","[-1.26480805e-321 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2046.329377012113,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00126.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00126_kp.png,True
+"[-2.99324367e+03 -8.15230470e+01  1.22658139e+02 -1.52529087e-01
+ -1.39915974e-01  0.00000000e+00]","[-4.85318982e+03 -4.80644396e+02  3.83861171e+02 -7.20595229e-02
+ -3.93257996e-02  1.56237678e-01]",1920.1366028818263,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00128.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00128_kp.png,True
+"[-2.99324367e+03 -8.15230470e+01  1.22658139e+02 -1.52529087e-01
+ -1.39915974e-01  0.00000000e+00]","[-4.85318982e+03 -4.80644396e+02  3.83861171e+02 -7.20595229e-02
+ -3.93257996e-02  1.56237678e-01]",1920.1366028818263,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00129.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00129_kp.png,True
+"[-2.11801234e+03  1.66220376e+00  5.92386506e+01 -2.44612288e-02
+ -7.43426094e-02  0.00000000e+00]","[-7.75538148e+02  7.68380592e+01 -3.29840698e+01 -2.96190444e+00
+ -2.17511890e-01 -2.41738383e-02]",1347.7363966343296,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00130.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00130_kp.png,True
+"[-2.11801234e+03  1.66220376e+00  5.92386506e+01 -2.44612288e-02
+ -7.43426094e-02  0.00000000e+00]","[-7.75538148e+02  7.68380592e+01 -3.29840698e+01 -2.96190444e+00
+ -2.17511890e-01 -2.41738383e-02]",1347.7363966343296,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00131.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00131_kp.png,True
+"[-2.23911289e+03 -4.20203611e+01  7.20035762e+01  7.01374670e-03
+ -1.07514288e-01  0.00000000e+00]",[-1.35648319  1.06575014  0.83903216  1.57079633 -1.57079633 -0.        ],2239.3022431008476,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00132.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00132_kp.png,True
+"[-2.23911289e+03 -4.20203611e+01  7.20035762e+01  7.01374670e-03
+ -1.07514288e-01  0.00000000e+00]","[ 0.00000000e+000 -1.25986740e-321  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2240.6643555740125,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00133.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00133_kp.png,True
+"[-2.97016816e+03  5.30905097e+01  1.10691960e+02 -1.02718480e-01
+ -1.24901110e-01  0.00000000e+00]","[-6.94418722e-310  0.00000000e+000 -4.94065646e-324  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2972.7041917168217,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00134.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00134_kp.png,True
+"[-2.98035815e+03 -3.12282738e+01  1.26625900e+02 -1.25354377e-01
+ -1.50698466e-01  0.00000000e+00]","[-5.55983753e+03 -2.14240137e+02  2.37721720e+02 -8.75064745e-02
+ -1.27076556e-01  1.77774434e-02]",2588.3487989864466,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00136.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00136_kp.png,True
+"[-2.98035815e+03 -3.12282738e+01  1.26625900e+02 -1.25354377e-01
+ -1.50698466e-01  0.00000000e+00]","[-5.55983753e+03 -2.14240137e+02  2.37721720e+02 -8.75064745e-02
+ -1.27076556e-01  1.77774434e-02]",2588.3487989864466,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00137.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00137_kp.png,True
+"[-2.51231567e+03 -2.37974391e+01  9.49163973e+01 -2.26030328e-02
+ -1.11675971e-01  0.00000000e+00]","[-3.58693980e+03  2.11633768e+02  3.20522355e+01 -3.24025564e-02
+ -1.54862544e-01 -5.57697990e-01]",1101.9059703268363,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00138.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00138_kp.png,True
+"[-2.51231567e+03 -2.37974391e+01  9.49163973e+01 -2.26030328e-02
+ -1.11675971e-01  0.00000000e+00]","[-3.58693980e+03  2.11633768e+02  3.20522355e+01 -3.24025564e-02
+ -1.54862544e-01 -5.57697990e-01]",1101.9059703268363,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00139.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00139_kp.png,True
+"[-2.68438905e+03  5.38526945e+01  1.02915796e+02  4.72916620e-02
+ -1.22022958e-01  0.00000000e+00]","[ 2.29732679e+03 -5.23175186e+02  6.01324105e+02  2.79997666e+00
+  1.30525049e-01  1.77442202e+00]",5039.728633046382,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00144.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00144_kp.png,True
+"[-2.68438905e+03  5.38526945e+01  1.02915796e+02  4.72916620e-02
+ -1.22022958e-01  0.00000000e+00]","[ 2.29732679e+03 -5.23175186e+02  6.01324105e+02  2.79997666e+00
+  1.30525049e-01  1.77442202e+00]",5039.728633046382,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00145.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00145_kp.png,True
+"[-2.90481888e+03  7.97195552e+01  1.07398852e+02 -2.55843073e-02
+ -1.29088601e-01  0.00000000e+00]","[-1.08646184e-311 -1.69759663e-312  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2907.896571600964,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00147.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00147_kp.png,True
+"[-2.85913628e+03  1.30297479e+01  1.18641281e+02 -1.09722751e-01
+ -1.29131431e-01  0.00000000e+00]","[ 4.63741888e+17 -2.36311085e+16 -9.34035812e+17 -2.79471278e+00
+ -1.02904971e+00 -2.56986804e+00]",1.0430905359852399e+18,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00148.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00148_kp.png,True
+"[-2.85913628e+03  1.30297479e+01  1.18641281e+02 -1.09722751e-01
+ -1.29131431e-01  0.00000000e+00]","[ 4.63741888e+17 -2.36311085e+16 -9.34035812e+17 -2.79471278e+00
+ -1.02904971e+00 -2.56986804e+00]",1.0430905359852399e+18,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00149.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00149_kp.png,True
+"[-2.82256968e+03  8.48100407e+01  1.01580998e+02  1.60816918e-01
+ -1.41167175e-01  0.00000000e+00]","[-1.21421573e-317 -1.21421573e-317 -1.08646184e-311  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2825.670018313733,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00150.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00150_kp.png,True
+"[-2.08895214e+03  4.53208610e+01  5.03757633e+01  5.71884965e-02
+ -5.54927952e-02  0.00000000e+00]","[-4.94065646e-324 -6.94394204e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2090.0508982640217,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00152.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00152_kp.png,True
+"[-2.08895214e+03  4.53208610e+01  5.03757633e+01  5.71884965e-02
+ -5.54927952e-02  0.00000000e+00]","[-4.94065646e-324 -4.14379070e-315 -6.94418718e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2090.0508982640217,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00153.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00153_kp.png,True
+"[-2.83336174e+03  8.68132213e+01  1.06767006e+02 -2.96180439e-03
+ -1.46699619e-01  0.00000000e+00]",[-0.94016186  1.56267769 -0.82134847  1.57079633 -1.57079633 -0.        ],2835.745916456648,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00155.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00155_kp.png,True
+"[-2.96019777e+03  4.65561433e+01  1.11877235e+02 -1.67516965e-01
+ -1.36268445e-01  0.00000000e+00]","[-1.16313811e+74  6.02799741e+73  1.02859692e+74 -5.98785567e-01
+  4.62819863e-01 -3.01555309e-01]",1.6656138249926943e+74,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00156.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00156_kp.png,True
+"[-2.96019777e+03  4.65561433e+01  1.11877235e+02 -1.67516965e-01
+ -1.36268445e-01  0.00000000e+00]","[-1.16313811e+74  6.02799741e+73  1.02859692e+74 -5.98785567e-01
+  4.62819863e-01 -3.01555309e-01]",1.6656138249926943e+74,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00157.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00157_kp.png,True
+"[-2.06188258e+03 -1.72239147e+01  5.53568055e+01  4.60447270e-02
+ -4.65141998e-02  0.00000000e+00]","[-1.58916101e-309 -2.78948541e-310  1.37848186e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2062.6609256226393,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00158.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00158_kp.png,True
+"[-2.06188258e+03 -1.72239147e+01  5.53568055e+01  4.60447270e-02
+ -4.65141998e-02  0.00000000e+00]","[-4.94065646e-324  0.00000000e+000 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2062.69745978004,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00159.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00159_kp.png,True
+"[-2.51878541e+03  4.52478869e+01  9.25911241e+01  3.17719231e-02
+ -1.26426542e-01  0.00000000e+00]","[-4.94065646e-324  0.00000000e+000 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2520.892779795795,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00160.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00160_kp.png,True
+"[-2.51878541e+03  4.52478869e+01  9.25911241e+01  3.17719231e-02
+ -1.26426542e-01  0.00000000e+00]","[-4.94065646e-324 -6.94393562e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2520.892779795795,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00161.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00161_kp.png,True
+"[-2.65648239e+03  1.59345290e+01  9.75822734e+01 -9.96720193e-02
+ -1.30767989e-01  0.00000000e+00]","[-3.93877225e+03 -1.32277015e+02  5.80896940e+02 -6.57217213e-02
+  6.38202057e-02  1.19065532e-01]",1378.342125000011,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00162.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00162_kp.png,True
+"[-2.65648239e+03  1.59345290e+01  9.75822734e+01 -9.96720193e-02
+ -1.30767989e-01  0.00000000e+00]","[-3.93877225e+03 -1.32277015e+02  5.80896940e+02 -6.57217213e-02
+  6.38202057e-02  1.19065532e-01]",1378.342125000011,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00163.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00163_kp.png,True
+"[-2.17530182e+03 -3.52689080e+01  5.42140051e+01 -1.19850197e-01
+ -1.01384952e-01  0.00000000e+00]","[-4.94065646e-324 -6.94387977e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2176.2630971876492,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00164.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00164_kp.png,True
+"[-2.17530182e+03 -3.52689080e+01  5.42140051e+01 -1.19850197e-01
+ -1.01384952e-01  0.00000000e+00]","[-2.12199592e-314 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2176.2630971876492,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00165.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00165_kp.png,True
+"[-2.95871444e+03  1.67879496e+01  1.15579601e+02  1.68066742e-01
+ -1.54746249e-01  0.00000000e+00]","[-5.77611319e+03 -1.00916419e+02  2.05035807e+02  1.78270336e-01
+ -1.53583253e-01  8.54499554e-02]",2821.2749631262886,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00166.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00166_kp.png,True
+"[-2.95871444e+03  1.67879496e+01  1.15579601e+02  1.68066742e-01
+ -1.54746249e-01  0.00000000e+00]","[-5.77611319e+03 -1.00916419e+02  2.05035807e+02  1.78270336e-01
+ -1.53583253e-01  8.54499554e-02]",2821.2749631262886,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00167.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00167_kp.png,True
+"[-2.65006312e+03 -2.75715792e+01  9.53875605e+01  6.04411908e-02
+ -1.22843602e-01  0.00000000e+00]","[-2.98780868e-314  2.80593364e-315  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2651.9226095005365,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00168.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00168_kp.png,True
+"[-2.65006312e+03 -2.75715792e+01  9.53875605e+01  6.04411908e-02
+ -1.22843602e-01  0.00000000e+00]","[-1.26480805e-321 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2651.9226095005365,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00169.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00169_kp.png,True
+"[-2.85263082e+03  8.73310759e+01  1.01581089e+02  1.57846300e-01
+ -1.25928439e-01  0.00000000e+00]","[-4.94065646e-324 -4.85686292e-317 -2.12199592e-314  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2855.7745011548095,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00170.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00170_kp.png,True
+"[-2.85263082e+03  8.73310759e+01  1.01581089e+02  1.57846300e-01
+ -1.25928439e-01  0.00000000e+00]","[-1.25986740e-321 -3.38917373e-317 -1.26480805e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2855.7745011548095,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00171.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00171_kp.png,True
+"[-2.76418224e+03  6.57636166e+01  1.11541236e+02  3.75963694e-02
+ -1.16472544e-01  0.00000000e+00]","[-4.49568107e+03 -2.27797887e+02  2.80684019e+02  5.52831736e-02
+ -1.02540109e-01  4.78725193e-01]",1764.3343903074342,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00172.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00172_kp.png,True
+"[-2.76418224e+03  6.57636166e+01  1.11541236e+02  3.75963694e-02
+ -1.16472544e-01  0.00000000e+00]","[-4.49568107e+03 -2.27797887e+02  2.80684019e+02  5.52831736e-02
+ -1.02540109e-01  4.78725193e-01]",1764.3343903074342,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00173.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00173_kp.png,True
+"[-2.98287849e+03 -9.89104536e+01  1.28008939e+02 -1.71670683e-01
+  2.04263271e-02  0.00000000e+00]","[-3.49505041e+03 -7.21432263e+01  2.29686186e+02 -1.96587776e-01
+  4.89716443e-02 -5.04754443e-03]",522.8525860386248,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00174.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00174_kp.png,True
+"[-2.98287849e+03 -9.89104536e+01  1.28008939e+02 -1.71670683e-01
+  2.04263271e-02  0.00000000e+00]","[-3.49505041e+03 -7.21432263e+01  2.29686186e+02 -1.96587776e-01
+  4.89716443e-02 -5.04754443e-03]",522.8525860386248,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00175.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00175_kp.png,True
+"[-2.84193559e+03 -5.05936409e+01  1.06576868e+02  1.24345498e-01
+ -1.40492935e-01  0.00000000e+00]","[-4.58956723e-310 -8.68185575e-310 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2844.383275922561,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00176.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00176_kp.png,True
+"[-2.84193559e+03 -5.05936409e+01  1.06576868e+02  1.24345498e-01
+ -1.40492935e-01  0.00000000e+00]","[-2.54639556e-311 -2.12199581e-314  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2844.383275922561,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00177.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00177_kp.png,True
+"[-2.72246584e+03 -7.75831534e+01  1.01431853e+02 -7.86017816e-02
+ -1.32702738e-01  0.00000000e+00]","[-2.54639556e-311 -2.12199581e-314  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2725.459192110847,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00178.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00178_kp.png,True
+"[-2.72246584e+03 -7.75831534e+01  1.01431853e+02 -7.86017816e-02
+ -1.32702738e-01  0.00000000e+00]","[-1.01855810e-310 -2.12199579e-314  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2725.459192110847,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00179.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00179_kp.png,True
+"[-2.96263622e+03 -2.48016723e+01  1.10111307e+02 -1.72679457e-02
+ -1.37427776e-01  0.00000000e+00]","[ 0.00000000e+000 -1.25986740e-321  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2964.785491512798,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00180.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00180_kp.png,True
+"[-2.96263622e+03 -2.48016723e+01  1.10111307e+02 -1.72679457e-02
+ -1.37427776e-01  0.00000000e+00]","[-1.08646184e-311 -1.69759663e-312 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2964.785491512798,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00181.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00181_kp.png,True
+"[-2.99896571e+03 -4.01999347e+01  1.19572872e+02  1.85794068e-02
+ -1.23369128e-01  0.00000000e+00]","[-1.20904015e+48 -7.53091833e+45 -1.19032317e+48 -2.24533750e-01
+ -6.98126030e-01  2.15897250e+00]",1.6966744089888086e+48,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00182.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00182_kp.png,True
+"[-2.99896571e+03 -4.01999347e+01  1.19572872e+02  1.85794068e-02
+ -1.23369128e-01  0.00000000e+00]","[-1.20904015e+48 -7.53091833e+45 -1.19032317e+48 -2.24533750e-01
+ -6.98126030e-01  2.15897250e+00]",1.6966744089888086e+48,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00183.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00183_kp.png,True
+"[-2.97549136e+03  5.80166080e+01  1.11873709e+02  1.16319205e-01
+ -1.54328581e-01  0.00000000e+00]","[-5.62383151e+03  2.53623393e+02  4.83490389e+02  2.93045698e-02
+ -9.89265603e-02  2.32027167e-01]",2681.429940360508,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00184.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00184_kp.png,True
+"[-2.97549136e+03  5.80166080e+01  1.11873709e+02  1.16319205e-01
+ -1.54328581e-01  0.00000000e+00]","[-5.62383151e+03  2.53623393e+02  4.83490389e+02  2.93045698e-02
+ -9.89265603e-02  2.32027167e-01]",2681.429940360508,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00185.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00185_kp.png,True
+"[-2.80605115e+03  3.92187489e+01  1.14537232e+02  7.57682140e-02
+ -1.31298230e-01  0.00000000e+00]","[-2.54639556e-311 -2.12199581e-314  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2808.6615927490343,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00186.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00186_kp.png,True
+"[-2.80605115e+03  3.92187489e+01  1.14537232e+02  7.57682140e-02
+ -1.31298230e-01  0.00000000e+00]","[ 0.00000000e+000  0.00000000e+000 -2.54639556e-311  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2808.6615927490343,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00187.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00187_kp.png,True
+"[-2.78590903e+03  9.47605665e-01  1.07849283e+02  8.03223971e-02
+ -1.28403973e-01  0.00000000e+00]","[-4.94065646e-324  0.00000000e+000 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2787.9959580200616,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00188.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00188_kp.png,True
+"[-2.78590903e+03  9.47605665e-01  1.07849283e+02  8.03223971e-02
+ -1.28403973e-01  0.00000000e+00]","[-4.94065646e-324 -6.94394556e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2787.9959580200616,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00189.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00189_kp.png,True
+"[-2.67961768e+03  4.42116067e+01  1.07399480e+02  1.26196183e-01
+ -1.24011732e-01  0.00000000e+00]","[-6.13763383e-310  7.66607158e-310 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2682.1335244857437,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00190.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00190_kp.png,True
+"[-2.67961768e+03  4.42116067e+01  1.07399480e+02  1.26196183e-01
+ -1.24011732e-01  0.00000000e+00]","[-1.01855810e-310 -2.12199579e-314  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2682.1335244857437,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00191.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00191_kp.png,True
+"[-2.98460681e+03  5.17527154e+01  1.11719571e+02  7.28295465e-02
+ -1.38912126e-01  0.00000000e+00]","[ 3.99676987e+14  9.52719022e+14  1.91300388e+15  1.17670228e+00
+ -1.29343413e+00  5.34672649e-01]",2174166293081762.0,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00192.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00192_kp.png,True
+"[-2.98460681e+03  5.17527154e+01  1.11719571e+02  7.28295465e-02
+ -1.38912126e-01  0.00000000e+00]","[ 3.99676987e+14  9.52719022e+14  1.91300388e+15  1.17670228e+00
+ -1.29343413e+00  5.34672649e-01]",2174166293081762.0,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00193.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00193_kp.png,True
+"[-2.03992905e+03  1.62857985e+01  5.16429133e+01  1.12583278e-01
+ -5.83092020e-02  0.00000000e+00]","[ 0.00000000e+000 -1.25986740e-321  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2040.647629585114,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00194.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00194_kp.png,True
+"[-2.03992905e+03  1.62857985e+01  5.16429133e+01  1.12583278e-01
+ -5.83092020e-02  0.00000000e+00]","[ 0.00000000e+000  0.00000000e+000 -1.25986740e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2040.647629585114,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00195.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00195_kp.png,True
+"[-2.09697736e+03  2.71978904e+01  5.60486327e+01 -1.01704980e-01
+ -5.67808542e-02  0.00000000e+00]","[-1.26480805e-321 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2097.902579066839,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00196.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00196_kp.png,True
+"[-2.09697736e+03  2.71978904e+01  5.60486327e+01 -1.01704980e-01
+ -5.67808542e-02  0.00000000e+00]","[-1.25986740e-321 -8.36856296e-317 -3.56429107e-315  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2097.902579066839,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00197.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00197_kp.png,True
+"[-2.90886741e+03  9.03122801e+01  1.22443174e+02 -4.09118273e-02
+ -1.22156256e-01  0.00000000e+00]","[-4.94065646e-324 -6.94386519e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2912.843669075193,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00198.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00198_kp.png,True
+"[-2.90886741e+03  9.03122801e+01  1.22443174e+02 -4.09118273e-02
+ -1.22156256e-01  0.00000000e+00]","[-1.26480805e-321 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2912.843669075193,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00199.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00199_kp.png,True
+"[-2.66385484e+03  1.77402632e+01  9.52681412e+01 -5.71345912e-02
+ -1.37314113e-01  0.00000000e+00]","[-3.52291861e+03 -1.17730009e+02  2.39824339e+02 -6.77107524e-02
+ -2.14212455e-02  4.62024382e-01]",881.6117266162461,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00200.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00200_kp.png,True
+"[-2.66385484e+03  1.77402632e+01  9.52681412e+01 -5.71345912e-02
+ -1.37314113e-01  0.00000000e+00]","[-3.52291861e+03 -1.17730009e+02  2.39824339e+02 -6.77107524e-02
+ -2.14212455e-02  4.62024382e-01]",881.6117266162461,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00201.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00201_kp.png,True
+"[-2.29823465e+03  4.37218351e+01  8.06299802e+01 -8.79706405e-02
+ -1.06317562e-01  0.00000000e+00]","[ 3.16799159e+03  2.48010469e+03  1.51678406e+03 -2.50743152e+00
+  1.51285454e-01 -8.59907092e-01]",6154.521033226876,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00202.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00202_kp.png,True
+"[-2.29823465e+03  4.37218351e+01  8.06299802e+01 -8.79706405e-02
+ -1.06317562e-01  0.00000000e+00]","[ 3.16799159e+03  2.48010469e+03  1.51678406e+03 -2.50743152e+00
+  1.51285454e-01 -8.59907092e-01]",6154.521033226876,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00203.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00203_kp.png,True
+"[-2.82553580e+03  8.79395747e+01  1.14125363e+02  1.56379178e-01
+ -1.42515636e-01  0.00000000e+00]","[-3.32105234e+03  9.20959548e+01  4.21855509e+00  2.00800091e-01
+ -6.62664927e-02 -4.96900863e-01]",507.5760330244062,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00204.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00204_kp.png,True
+"[-2.82553580e+03  8.79395747e+01  1.14125363e+02  1.56379178e-01
+ -1.42515636e-01  0.00000000e+00]","[-3.32105234e+03  9.20959548e+01  4.21855509e+00  2.00800091e-01
+ -6.62664927e-02 -4.96900863e-01]",507.5760330244062,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00205.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00205_kp.png,True
+"[-2.86593095e+03  7.71232873e+01  1.07781470e+02 -1.00415215e-01
+ -1.23691077e-01  0.00000000e+00]","[-4.85797691e+03 -1.60237184e+02  1.44997318e+03 -1.47243134e-01
+  3.31898631e-01  9.46552464e-01]",2413.7244414768934,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00206.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00206_kp.png,True
+"[-2.86593095e+03  7.71232873e+01  1.07781470e+02 -1.00415215e-01
+ -1.23691077e-01  0.00000000e+00]","[-4.85797691e+03 -1.60237184e+02  1.44997318e+03 -1.47243134e-01
+  3.31898631e-01  9.46552464e-01]",2413.7244414768934,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00207.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00207_kp.png,True
+"[-2.05634236e+03 -2.49459683e+01  4.99106796e+01  1.08992093e-01
+ -1.22554629e-02  0.00000000e+00]","[-6.94418722e-310 -6.94394472e-310 -4.94065646e-324  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2057.099241553767,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00208.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00208_kp.png,True
+"[-2.05634236e+03 -2.49459683e+01  4.99106796e+01  1.08992093e-01
+ -1.22554629e-02  0.00000000e+00]","[-6.94418718e-310 -3.58428895e-315 -3.23785921e-319  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2057.099241553767,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00209.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00209_kp.png,True
+"[-2.61058285e+03  3.10830359e+01  9.37212689e+01  6.97243778e-02
+ -1.24349309e-01  0.00000000e+00]","[-3.95023624e+03 -1.01405768e+02  2.35334036e+02  1.28764571e-01
+ -9.09892804e-02 -1.95605056e-02]",1353.616882092229,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00210.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00210_kp.png,True
+"[-2.61058285e+03  3.10830359e+01  9.37212689e+01  6.97243778e-02
+ -1.24349309e-01  0.00000000e+00]","[-3.95023624e+03 -1.01405768e+02  2.35334036e+02  1.28764571e-01
+ -9.09892804e-02 -1.95605056e-02]",1353.616882092229,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00211.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00211_kp.png,True
+"[-2.74394170e+03  6.15342137e+01  1.08914860e+02  3.63762908e-02
+ -1.37123182e-01  0.00000000e+00]","[ -66.24802357   46.37535    -147.0481075     3.00294527   -0.18167211
+    1.60518604]",2689.942425399917,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00212.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00212_kp.png,True
+"[-2.74394170e+03  6.15342137e+01  1.08914860e+02  3.63762908e-02
+ -1.37123182e-01  0.00000000e+00]","[ -66.24802357   46.37535    -147.0481075     3.00294527   -0.18167211
+    1.60518604]",2689.942425399917,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00213.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00213_kp.png,True
+"[-2.04892020e+03  5.72701331e+00  4.66135932e+01 -3.16708501e-02
+ -7.93818429e-02  0.00000000e+00]","[-6.94418722e-310 -6.94394556e-310 -4.94065646e-324  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2049.458372464043,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00214.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00214_kp.png,True
+"[-2.04892020e+03  5.72701331e+00  4.66135932e+01 -3.16708501e-02
+ -7.93818429e-02  0.00000000e+00]","[-6.94418722e-310 -6.94394000e-310 -4.94065646e-324  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2049.458372464043,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00215.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00215_kp.png,True
+"[-2.97034606e+03 -6.96799279e+01  1.23457034e+02 -6.72276270e-02
+ -1.45298955e-01  0.00000000e+00]","[-4.83569206e+03 -2.63796912e+02  4.55356511e+02 -8.10839569e-02
+ -2.17092613e-03  4.18928371e-01]",1904.5614622806006,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00216.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00216_kp.png,True
+"[-2.97034606e+03 -6.96799279e+01  1.23457034e+02 -6.72276270e-02
+ -1.45298955e-01  0.00000000e+00]","[-4.83569206e+03 -2.63796912e+02  4.55356511e+02 -8.10839569e-02
+ -2.17092613e-03  4.18928371e-01]",1904.5614622806006,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00217.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00217_kp.png,True
+"[-2.92152394e+03  4.65302194e+01  1.08730164e+02  1.25431512e-01
+ -1.39277140e-01  0.00000000e+00]","[ 3.72918685e-310 -7.64047630e-310  4.91491523e-310  1.82112927e+000
+ -2.36294204e-001  2.50332940e-001]",2923.9167944985593,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00218.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00218_kp.png,True
+"[-2.92152394e+03  4.65302194e+01  1.08730164e+02  1.25431512e-01
+ -1.39277140e-01  0.00000000e+00]","[-4.94065646e-324 -6.94394313e-310 -6.94418722e-310  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2923.9167944985593,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00219.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00219_kp.png,True
+"[-2.81618111e+03  1.96823663e+01  1.15700096e+02 -7.66093369e-02
+ -1.35289856e-01  0.00000000e+00]","[-4.05520736e+03 -2.33007643e+01  4.10945453e+02 -7.51854521e-02
+ -1.95088566e-02  7.56938950e-02]",1274.442390174119,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00220.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00220_kp.png,True
+"[-2.81618111e+03  1.96823663e+01  1.15700096e+02 -7.66093369e-02
+ -1.35289856e-01  0.00000000e+00]","[-4.05520736e+03 -2.33007643e+01  4.10945453e+02 -7.51854521e-02
+ -1.95088566e-02  7.56938950e-02]",1274.442390174119,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00221.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00221_kp.png,True
+"[-2.90870734e+03  2.12366456e+01  1.18043076e+02  1.07253451e-01
+ -1.18433338e-01  0.00000000e+00]","[-2.54639495e-311 -6.94418727e-310  0.00000000e+000  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2911.1790686644217,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00222.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00222_kp.png,True
+"[-2.90870734e+03  2.12366456e+01  1.18043076e+02  1.07253451e-01
+ -1.18433338e-01  0.00000000e+00]","[-1.25986740e-321 -3.16202013e-322 -1.26480805e-321  1.57079633e+000
+ -1.57079633e+000 -0.00000000e+000]",2911.1790686644217,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00223.png,/home/younger/work/nerfstudio/gazebo_nerf_exp/data_pc_outliers/frame_removed_00223_kp.png,True
