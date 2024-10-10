@@ -96,7 +96,7 @@ if __name__ == "__main__":
 
                 cv2img = cv2.cvtColor(image*255, cv2.COLOR_RGB2BGR)
                 cv2img = adjust_hue(cv2img, hue)
-                # cv2img = adjust_saturation(cv2img, satur)
+                cv2img = adjust_saturation(cv2img, satur)
                 image_modified = cv2.cvtColor(cv2img, cv2.COLOR_BGR2RGB)
                 cv2.imwrite(f'./adjusted/frame_{i:03d}_{idx+1:02d}.png', cv2img)
                 data_new['images'][i*10+idx+1,:,:,:] = image_modified/255 

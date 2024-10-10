@@ -574,6 +574,97 @@ def get_rays(
     rays_o = c2w[:3, -1].expand(rays_d.shape)
     return rays_o, rays_d
 
+def render_image(
+    model: nn.Module,
+    fine_model: Optional[nn.Module],
+    encode: Callable[[torch.Tensor], torch.Tensor],
+    encode_env: Callable[[torch.Tensor], torch.Tensor],
+    encode_viewdirs: Optional[Callable[[torch.Tensor], torch.Tensor]],
+    test_pose: torch.Tensor,
+    hue: float,
+    saturation: float,
+    data_path: str,
+    testimgidx: int = 13,
+    near: float = 2.0,
+    far: float = 6.0,
+    n_samples: int = 64,
+    perturb: bool = True,
+    inverse_depth: bool = False,
+    n_samples_hierarchical: int = 64,
+    perturb_hierarchical: bool = True,
+    chunksize: int = 2**14,
+) -> Tuple[np.ndarray, np.ndarray]:
+    """
+    Render an image based on the provided hue and saturation.
+    Returns the rendered image and the ground truth image.
+    """
+    # Load data
+    data = np.load(os.path.join(data_path, "tiny_nerf_data.npz"))
+    images = data["images"]
+    poses = data["poses"]
+    focal = float(data["focal"])
+
+    # Get ground truth image
+    testimg = images[testimgidx]
+    testpose_np = poses[testimgidx]
+
+    # Adjust hue and saturation
+    cv2img = cv2.cvtColor(testimg, cv2.COLOR_RGB2BGR)
+    cv2img = adjust_hue(cv2img, hue)
+    cv2img = adjust_saturation(cv2img, saturation)
+    adjusted_img = cv2.cvtColor(cv2img, cv2.COLOR_BGR2RGB)
+
+    # Convert to torch tensors
+    testimg_tensor = torch.Tensor(adjusted_img).to(device)
+    testpose_tensor = torch.Tensor(testpose_np).to(device)
+    focal_tensor = torch.Tensor([focal]).to(device)
+    testenv = torch.Tensor([hue, saturation]).to(device)
+
+    # Normalize environmental parameters
+    hue_min, hue_max = -30, 30
+    sat_min, sat_max = -0.5, 0.5
+
+    testenv[0] = (testenv[0] - hue_min) / (hue_max - hue_min)
+    testenv[1] = (testenv[1] - sat_min) / (sat_max - sat_min)
+
+    height, width = testimg.shape[:2]
+    rays_o, rays_d = get_rays(height, width, focal, testpose_tensor)
+    rays_o = rays_o.reshape([-1, 3])
+    rays_d = rays_d.reshape([-1, 3])
+    rays_env = testenv.repeat(rays_o.shape[0], 1)
+
+    # Forward pass through NeRF
+    outputs = nerf_forward(
+        rays_o,
+        rays_d,
+        rays_env,
+        near,
+        far,
+        encode,
+        model,
+        kwargs_sample_stratified={
+            "n_samples": n_samples,
+            "perturb": perturb,
+            "inverse_depth": inverse_depth,
+        },
+        n_samples_hierarchical=n_samples_hierarchical,
+        kwargs_sample_hierarchical={"perturb": perturb_hierarchical},
+        fine_model=fine_model,
+        viewdirs_encoding_fn=encode_viewdirs,
+        env_encoding_fn=encode_env,
+        chunksize=chunksize,
+    )
+
+    rgb_predicted = outputs["rgb_map"]
+    rgb_image = rgb_predicted.reshape([height, width, 3]).detach().cpu().numpy()
+    rgb_image = np.clip(rgb_image, 0, 1)
+
+    # Ground truth image
+    ground_truth = testimg_tensor.reshape([height, width, 3]).detach().cpu().numpy()
+    ground_truth = np.clip(ground_truth, 0, 1)
+
+    return rgb_image, ground_truth
+
 if __name__ == "__main__":
     data = np.load(os.path.join(script_dir,"tiny_nerf_data.npz"))
     images = data["images"]
@@ -587,7 +678,7 @@ if __name__ == "__main__":
     # hue = np.random.uniform(-30,30)
     # sat = np.random.uniform(-0.5,0.5)
     hue = 30
-    sat = 0.5
+    sat = -0.5
 
     print(f">>> Test: idx {testimgidx}; hue {hue}; sat {sat}")
 
@@ -602,7 +693,7 @@ if __name__ == "__main__":
     testenv = torch.Tensor([hue, sat]).to(device)
 
     hue_min, hue_max = -30, 30
-    sat_min, sat_max = -0.2, 0.2
+    sat_min, sat_max = -0.5, 0.5
 
     testenv[0] = (testenv[0]-hue_min)/(hue_max-hue_min)
     testenv[1] = (testenv[1]-sat_min)/(sat_max-sat_min)
