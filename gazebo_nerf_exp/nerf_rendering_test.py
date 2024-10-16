@@ -11,14 +11,14 @@ import numpy as np
 import os 
 from pathlib import Path
 import matplotlib.pyplot as plt 
-from ns_renderer import SplatRenderer
+from ns_renderer import SplatRenderer, NerfRenderer
 
 if __name__ == "__main__":
     # Sampled camera pose in World (Gazebo) frame
     state_rand = np.array([-643.5870811335876, -1315.487922957998, 986.3821236027896, 0.45802836116014156, -0.24337730962498508, 0.13196425582817917, 0.8447265478936802])
 
-    renderer = SplatRenderer(
-        '../outputs/gazebo4_transformed/splatfacto/2024-08-05_204928/config.yml', 
+    renderer = NerfRenderer(
+        '../outputs/gazebo4_transformed/nerfacto/2024-10-10_165923/config.yml', 
         2560, 
         1440, 
         2343.0242837919386, 

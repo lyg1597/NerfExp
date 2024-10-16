@@ -19,7 +19,7 @@ def scale_down_image(img, output_path, factor = 2):
 
 script_dir = os.path.dirname(os.path.realpath(__file__))
 
-output_dir = os.path.join(script_dir, 'gazebo4_resampled4_dataset')
+output_dir = os.path.join(script_dir, 'gazebo5_transformed_env-1')
 if not os.path.exists(output_dir):
     os.mkdir(output_dir)
 
@@ -43,12 +43,12 @@ input_img_dir = os.path.join(input_dir, 'images')
 input_csv = os.path.join(input_dir, 'pose.csv')
 
 res_dict = {
-    "w": 640,
-    "h": 480,
-    "fl_x": 1253.2215566867008,
-    "fl_y": 1253.2215566867008,
-    "cx": 320.5,
-    "cy": 240.5,
+    "w": 2560,
+    "h": 1440,
+    "fl_x": 2343.0242837919386,
+    "fl_y": 2343.0242837919386,
+    "cx": 1280.5,
+    "cy": 720.5,
     "k1": 0,
     "k2": 0,
     "p1": 0,
@@ -83,7 +83,7 @@ data = np.genfromtxt(input_csv, dtype=float, delimiter=',', names = True)
 frames = []
 for i in range(data.shape[0]):
     print(i)
-    x,y,z,qw,qx,qy,qz = data[i]
+    x,y,z,qw,qx,qy,qz,env1,env2 = data[i]
     input_img_fn = os.path.join(input_img_dir, f'image_{i:05d}.png')
     pos_vector = np.array([x,y,z])
     rot_matrix = Rotation.from_quat([qx, qy, qz, qw]).as_matrix()
@@ -98,6 +98,7 @@ for i in range(data.shape[0]):
     frame['colmap_im_id'] = i+1
     frame['original_fn'] = os.path.normpath(input_img_fn)
     frame['transform_matrix'] = transform_matrix.tolist()
+    frame['env_params'] = [env1, env2]
     frames.append(frame)
 
     output_img_fn = os.path.join(output_img_dir, f'frames_{i+1:05d}.png')

@@ -14,6 +14,62 @@ import matplotlib.pyplot as plt
 from ns_dp_info import dpDict
 from scipy.spatial.transform import Rotation
 
+class NerfRenderer:
+    def __init__(
+        self,
+        config_path: str, 
+        width: int,
+        height: int, 
+        fx: float, 
+        fy: float, 
+        distortion_params: np.ndarray = None,
+        camera_type = CameraType.PERSPECTIVE,
+        metadata = None 
+    ):
+        self._script_dir = os.path.dirname(os.path.realpath(__file__))
+        self.config_path = Path(os.path.join(self._script_dir, config_path))
+
+        self.fx = fx
+        self.fy = fy
+        self.cx = width/2
+        self.cy = height/2
+        self.nerfW = width
+        self.nerfH = height
+        self.distortion_params = distortion_params
+        self.camera_type  = camera_type
+
+        self.focal = self.fx
+
+        self.metadata = metadata
+
+        _, pipeline, _, step = eval_setup(
+            self.config_path,
+            eval_num_rays_per_chunk=None,
+            test_mode='inference'
+        )
+        self.model = pipeline.model 
+
+    def render(self, cam_state:np.ndarray):
+        # rpy = R.from_matrix(cam_state[0, :3,:3])
+        if cam_state.ndim == 2:
+            cam_state = np.expand_dims(cam_state, axis=0)
+        
+        camera_to_world = torch.FloatTensor( cam_state )
+
+        camera = Cameras(camera_to_worlds = camera_to_world, fx = self.fx, fy = self.fy, cx = self.cx, cy = self.cy, width=self.nerfW, height=self.nerfH, distortion_params=self.distortion_params, camera_type=self.camera_type, metadata=self.metadata)
+        camera = camera.to('cuda')
+        ray_bundle = camera.generate_rays(camera_indices=0, aabb_box=None)
+        with torch.no_grad():
+            tmp = self.model.get_outputs_for_camera_ray_bundle(ray_bundle)
+
+        img = tmp['rgb']
+        img =(colormaps.apply_colormap(image=img, colormap_options=colormaps.ColormapOptions())).cpu().numpy()
+        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+        img = (img * 255).astype(np.uint8)
+        img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
+
+        return img
+
 class SplatRenderer:
     def __init__(self,
             config_path: str,    
@@ -23,7 +79,8 @@ class SplatRenderer:
             fx: float, 
             fy: float, 
             distortion_params: np.ndarray = None,
-            camera_type = CameraType.PERSPECTIVE
+            camera_type = CameraType.PERSPECTIVE,
+            metadata = None
         ):
         self._script_dir = os.path.dirname(os.path.realpath(__file__))
         self.config_path = Path(os.path.join(self._script_dir, config_path))
@@ -40,7 +97,8 @@ class SplatRenderer:
 
         self.focal = self.fx
 
-        
+        self.metadata = metadata
+
         _, pipeline, _, step = eval_setup(
             self.config_path,
             eval_num_rays_per_chunk=None,
@@ -55,7 +113,7 @@ class SplatRenderer:
         
         camera_to_world = torch.FloatTensor( cam_state )
 
-        camera = Cameras(camera_to_worlds = camera_to_world, fx = self.fx, fy = self.fy, cx = self.cx, cy = self.cy, width=self.nerfW, height=self.nerfH, distortion_params=self.distortion_params, camera_type=self.camera_type)
+        camera = Cameras(camera_to_worlds = camera_to_world, fx = self.fx, fy = self.fy, cx = self.cx, cy = self.cy, width=self.nerfW, height=self.nerfH, distortion_params=self.distortion_params, camera_type=self.camera_type, metadata=self.metadata)
         camera = camera.to('cuda')
         ray_bundle = camera.generate_rays(camera_indices=0, aabb_box=None)
 
